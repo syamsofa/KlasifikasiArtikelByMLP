@@ -1,0 +1,37 @@
+Jakarta -
+
+Lembaga Riset Siber Indonesia CISSReC (Communication and Information System Security Research Center) mengusut awal mula data pribadi Denny Siregar bisa bocor dan tersebar di media sosial (medsos).
+
+Denny Siregar yang merupakan penggiat medsos ini berkicau di akun Twitter miliknya, mengeluhkan bahwa kebocoran data pribadinya yang diungkapkan akun @opposite6891. Untuk menelusuri apakah benar itu data milik Denny, CISSReC melihatnya dan mencocokkan data yang bocor itu dengan 91 juta pengguna data Tokopedia yang sudah lebih dulu disebar sebelumnya.
+
+                      Baca juga: Denny Siregar Ancam Gugat Telkomsel karena Data Pribadi Bocor
+
+"Pertama dan paling penting, nomor yang disebarkan oleh akun Twitter @opposite6891 adalah benar milik Denny Siregar. Karena kebetulan kami sudah download data 91 juta pengguna Tokopedia, lalu kami cocokkan ternyata data nomor tersebut sama," kata Chairman CISSReC Pratama Persadha, Senin (6/7/2020).
+
+CISSReC juga mengungkapkan mengapa Denny Siregar lebih menuntut Telkomsel terkait kebocoran data yang dialaminya itu.
+
+"Karena memang capture gambar yang tersebar di twitter adalah kemungkinan besar berasal dari sistem provider, dalam hal ini adalah Telkomsel, tidak mungkin provider lain, dilihat dari nomornya," jelasnya.
+
+[Gambas:Twitter]
+
+"Hal ini memang patut dipertanyakan, darimana akun twitter tersebut mendapatkan capture tersebut. Bahkan dalam kasus Ulil Yusron dulu saja, menyebarkan data pribadi seorang tersangka di Twitter, sangat tidak diperbolehkan," kata Pratama.
+
+Pratama menjelaskan berdasarkan UU ITE, menyebarkan data pribadi tanpa izin dan mengakses sistem secara ilegal -- bila memang dilakukan -- bisa diancam dengan pasal 26 UU ITE, karena mendistribusikan data pribadi tanpa izin orang bersangkutan.
+
+Terkait kasus ini, Telkomsel memastikan perlindungan data pelanggan yang merupakan prioritas bagi operator seluler yang identik warna merah tersebut.
+
+"Peristiwa ini juga mengingatkan kita betapa pentingnya perlindungan data pribadi. Termasuk dalam kasus Tokopedia yang bocor 91 juta data, artinya kita mau mencari nomor siapapun di tanah air, ada kemungkinan mendapatkannya lewat data yang bocor tersebut," ujar pria asal Cepu, Jawa Tengah itu.
+
+Baca juga: Kebocoran Data Denny Siregar, Menkominfo Minta Investigasi
+
+Indonesia yang belum memiliki undang-undang khusus mengenai perlindungan data pribadi juga jadi persoalan yang harus dikritisi, khusus di era digital seperti sekarang. Pratama menyebutkan aturan General Data Protection Regulation (GDPR) yang diterapkan Eropa bisa contoh bagi Indonesia.
+
+"GDPR memberikan contoh pada kita bagaimana aturan turunannya memberikan list apa saja teknologi yang harus diaplikasikan, bila ada kebocoran data akan dilakukan pemeriksaan dan apabila ada hal yang belum dilakukan maka bisa dikenai tuntutan dengan nilai maksimum 20 juta Euro," ucapnya.
+
+Dengan demikian, Pratama mengungkapkan, sulit juga memang bagi Denny Siregar maupun pihak lainnya yang ingin menuntut penyelenggara sistem transaksi elektronik (PSTE) untuk bertanggung jawab.
+
+"Karena dalam PP 71 tahun 2019 pun, tidak diatur dengan jelas dan tegas apa sanksi yang bisa didapatkan penyelenggara sistem bila mereka melakukan kesalahan yang berakibat kerugian materi maupun imateri bagi pemilik data yang mereka kelola," pungkas dia.                          
+
+Simak Video "Jubir: Masalah Kebocoran Data Bukan Hanya Tugas Kominfo Sendiri "
+ [Gambas:Video 20detik]
+                           (agt/fay)                                                   				denny siregar				kebocoran data				telkomsel				ruu perlindungan data pribadi				gdpr                                       

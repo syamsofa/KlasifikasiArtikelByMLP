@@ -1,0 +1,19 @@
+              Bali - Trafik data selama Hari Raya Idul Fitri selalu terjadi setiap tahunnya, dan untuk 2017 ini XL Axiata memprediksi adanya lonjakan trafik data sampai 5.000 TB per harinya.
+
+Pada hari biasa, di tahun 2017 ini trafik data di jaringan milik XL per harinya mencapai 3.600 TB. Dan trafik itu diperkirakan akan melonjak sebesar 30% sampai 40% selama lebaran, atau mencapai 5.000 TB.
+
+Untuk menghadapi hal tersebut, XL punya beberapa senjata andalan. Apa saja langkah yang dilakukan operator yang identik dengan warna biru itu?
+
+                      Yang pertama adalah melakukan drive test dan user experience test di jalur dan area tujuan mudik. Langkah ini dilakukan di bandara, pelabuhan, jalur mudik, termasuk tol baru seperti tol Medan - Tebing Tinggi dan Brebes - Weleri.
+
+Kedua adalah menambah kapasitas radio, transmisi dan core. Hal ini dilakukan karena konsumen saat ini tak sekadar membutuhkan cakupan sinyal di suatu area, melainkan juga butuh mengakses internet dengan lancar.
+
+"Pelanggan kalau komplain sekarang tak cuma soal coverage, namun juga kapasitas jaringan (untuk mengakses internet)," ujar I Gede Darmayusa, VP Service Operation Management XL Axiata dalam presentasinya di acara XL Media Gathering di Bali, Senin (8/5/2017).
+
+Lalu ada juga optimasi dan pengalihan jaringan. Maksudnya adalah mengalihkan kapasitas yang tak terpakai di satu daerah ke daerah lain yang lebih membutuhkan.
+Foto: Anggoro Suryo Jati/detikinet
+Dalam hal ini adalah kapasitas dari daerah yang banyak ditinggal pengguna karena mudik, seperti Jakarta, dan dialihkan ke Jawa Tengah dan Jawa Timur. Caranya adalah dengan memanfaatkan teknologi MME dan MSS in Pool di jaringan core, yang memudahkan untuk melakukan pengalihan itu.
+
+Terakhir adalah perluasan cakupan sinyal 4G dan 3G yang dilakukan salah satunya dengan pengoperasian m-BTS di 35 sampai 50 lokasi. Yaitu di Pelabuhan Bakauheni, pintu tol Palimanan, pintu tol Pejagan, Brexit Timur dan lain-lain.
+
+"Untuk penggunaan m-BTS ini lebih baik ketimbang BTS permanen karena pemasangannya lebih cepat. Setelah itu barulah dinilai apakah layak untuk dijadikan BTS permanen," tambah Gede.                                                    (asj/fyk)                                                                                          

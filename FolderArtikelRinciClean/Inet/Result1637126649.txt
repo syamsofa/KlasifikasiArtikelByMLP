@@ -1,0 +1,15 @@
+              Jakarta - Sejak menerapkan teknologi baru di menara-menara BTS miliknya, XL mengklaim jaringannya makin kuat. Bahkan pelanggan tak perlu khawatir kehilangan sinyal meski berada di dalam ruangan.
+
+Adapun teknologi yang dimaksud adalah 4x4 MIMO yang menggandakan jumlah cabang antena BTS dari yang tadinya 2x2 menjadi 4x4. Dengan begitu kekuatan jaringan yang disodorkan menjadi lebih luas dan juga lebih kuat. Sehingga bisa menembus tembok-tembok rumah atau gedung.
+
+"Kalau dulu mungkin sinyalnya cuma sampai di teras rumah, sekarang bisa sampai kamar. Karena jaringannya lebih kuat, pakai empat antena," kata Budi Harjono, VP Network & Planning XL, Jumat petang (3/2/2017).
+
+                      "Malah dalam gedung kita paling advance dibanding pesaing. Banyak gedung di Jakarta yang sudah kita cover," imbuhnya.
+
+Sejauh ini implementasi teknologi 4x4 MIMO telah diterapkan di jaringan XL di wilayah Jabodetabek, Bandung, Yogyakarta, Surabaya, Denpasar, dan sejumlah kota lainnya di Jawa Tengah. Selain itu upgrade jaringan XL ini juga menjadi jalan bagi operator biru ini menuju era 4,5G.
+
+Dengan BTS berteknologi 4,5G yang mulai digunakannya itu, XL mengklaim mampu menaikkan kecepatan data di layanannya hingga 30% lebih besar dari yang mampu disodorkan teknologi 4G yang ditawarkannya saat ini.
+
+Tapi, mulai diterapkannya 4,5G bukan berarti jaringan 4G berhenti dikembangkan. XL berencana menjalankan teknologi Carrier Aggregation (CA). Penerapannya nanti akan memanfaatkan frekuensi 1800 MHz dan 2100 Mhz. Namun untuk mewujudkan hal tersebut, XL masih bergantung pada kepadatan jaringan 3G yang dimilikimya saat ini.
+
+"CA akan menggunakan 1800 MHz dan 2100 MHz, saat ini kami masih trial. Ke depan akan kami kembangkan, tapi masih menunggu space 3G sampai agak kosong, baru kita terapkan CA," pungkas Budi.                                                    (mag/mag)                                                   				xl axiata				operator seluler				lte				ponsel 4g lte                                       

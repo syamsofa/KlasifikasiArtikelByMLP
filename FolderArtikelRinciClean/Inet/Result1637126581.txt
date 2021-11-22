@@ -1,0 +1,51 @@
+              Malang - 
+
+Direksi Telkomsel tak mau anak buahnya menganut prinsip ABS -- asal bapak senang. Jadi ketika uji jaringan digelar, hasil di lapangan harus benar-benar jadi acuan, meski itu harus melahap 11.000 kilometer.
+
+"Jangan sampai laporannya (kecepatan internetnya) bisa sampai 20 Mbps, tetapi saat mau kirim gambar cuma muter-muter. Apalagi kirim video," tegas Sukardi Silalahi, Direktur Sales Telkomsel mengingatkan jajaran penggawa Telkomsel di sela uji jaringan persiapan Ramadan dan Idul Fitri (RAFI) 2017.
+
+                      Sukardi dan direksi Telkomsel lainnya tentu tak mau anak buahnya menganut faham ABS, dimana laporan yang diberikan cuma bertujuan untuk mencuri hati sang bos, sedangkan hasil di lapangan dan laporan berbeda.
+
+Peringatan ini pula yang dilantangkan para petinggi Telkomsel ketika melakukan uji jaringan dan persiapan layanan dalam rangka RAFI 2017. 
+
+"Kita ingin tunjukkan ke pelanggan di mana pun mereka berada, kita juga hadir bagi mereka. Apalagi saat musim mudik dan Idul Fitri, ini momentum besar," Direktur Utama Telkomsel Ririek Adriansyah mengingatkan di Hotel Singhasari, Batu, Malang, Jawa Timur, Kamis (18/5/2016).
+
+Bahkan, karyawan Telkomsel yang bertugas mengawal jaringan dan layanan RAFI 2017 sudah diwanti-wanti untuk siap kurang tidur demi memuaskan pelanggan. "Persiapan menyambut RAFI memang harus dari jauh-jauh hari. Kalau ibu saya bilang, 'ini puasa saja belum, kok sudah mikirin lebaran'. Tapi ya memang harus begitu, untuk menunjukkan keseriusan kita," lanjut Ririek.
+
+Melahap 11.000 KM
+
+Untuk network drive test 2017, Telkomsel memperluas cakupan wilayah yang diuji dibandingkan perhelatan yang sama di tahun lalu. Mulai dari jalur mudik dan jalur arus balik kereta api Jawa lintas utara dan selatan, jalur lintas Jawa (main road) dari Pelabuhan Merak–Banten hingga Pelabuhan Ketapang di Banyuwangi yang melalui jalur utara, jalur selatan dan jalur tol. 
+
+Selain itu uji coba juga dilakukan di jalur lintas Sumatera (main road) dari Bakauheni hingga Banda Aceh menempuh jalur lintas barat, jalur lintas tengah dan jalur lintas timur. 
+
+Terdapat tujuh kota yang menjadi fokus penguatan jaringan mengingat tempat ini merupakan tujuan kedatangan pemudik selama masa lebaran, yaitu Medan, Padang, Lampung, Bandung, Semarang, Surabaya dan Makasar. Sedangkan untuk kota keberangkatan, Jakarta, Balikpapan dan Batam merupakan lokasi yang dipilih. 
+
+Foto: detikINET/Ardhi Suryadhi
+
+"Secara total kami menempuh jarak sejauh kurang lebih 11.000 km di uji jaringan tahun ini. Di sisi lain dengan telah beroperasinya layanan 4G LTE Telkomsel di hampir 500 ibukota kabupaten dengan sebaran lebih dari 11.000 BTS 4G, kami harap hal ini akan semakin menambah kenyamanan pelanggan dalam berkomunikasi di momen spesial Ramadhan dan Lebaran," papar Direktur Network Telkomsel, Bob Apriawan.
+
+"Kami memang sengaja untuk memperluas cakupan wilayah uji jaringan pada tahun ini karena kami ingin menantang kemampuan jaringan Telkomsel. Dimana ketika ada area yang masih kurang baik kualitasnya, segera kabarkan, dan akan kami lakukan perbaikan secepatnya," imbuhnya. 
+
+Hasil Uji Jaringan
+
+Ada beberapa parameter yang dapat diamati dari pelaksanaan drive test, di antaranya adalah kuat daya pancar dan daya terima handset (coverage), tingkat kesuksesan akses jaringan (CSSR), tingkat kontinuitas panggilan (CCSR/drop call), lamanya waktu pembangunan panggilan (Call Setup Time), kualitas suara (MOS) dan speed (Data Throughput)
+
+Pada Network Drive Test ini, pengukuran kekuatan sinyal 4G diukur dengan parameter Reference Signal Received Power (RSRP), sedangkan parameter untuk mengukur kualitas sinyal 4G disebut Signal to Noise Ratio (SNR). Sementara itu, parameter yang digunakan untuk mengukur kualitas layanan data 4G adalah HTTP Throughput (tingkat kecepatan akses layanan).
+
+Secara keseluruhan hasil network drive test 2017 Surabaya–Malang sepanjang 125 km memperlihatkan bahwa Telkomsel siap untuk menyambut momen Ramadhan dan Lebaran 2017 yang dipredikasi akan mengalami lonjakan yang cukup signifikan, terutama pada layanan data. 
+
+Sepanjang rute terdapat total sebanyak 1.047 BTS (297 BTS 4G, 379 BTS 3G dan 371 BTS 2G) yang akan melayani pelanggan. Adapun angka rata-rata yang diperoleh dari hasil Drive Test adalah sebagai berikut: CSSR 100 %, CST 3.51 s, CCSR 100 %, MOS 99.22 %, Data Throughput 12.604 kbps.
+
+Untuk layanan 4G, pengujian di jalur Surabaya-Malang memperlihatkan kekuatan dan kualitas sinyal 4G Telkomsel secara umum baik. Hal ini ditunjukkan dengan angka RSRP -84.2 dBm dan SNR 10.8 dB. 
+
+Sementara kualitas layanan data 4G yang salah satunya diukur melalui pengunduhan berbagai file dengan kapasitas 50 MB hingga 2.5 GB menunjukkan hasil yang baik, di mana angka rata-rata HTTP Throughput 12.6 Mbps dengan Maximum Throughput 86.44 Mbps.
+
+Foto: detikINET/Ardhi Suryadhi
+
+Adapun di sepanjang jalur mudik utama Pulau Jawa sepanjang 2375 km, kesiapan jaringan Telkomsel juga dapat terlihat dari hasil Drive Test, dimana skor yang diperoleh adalah: CSSR 98.76 %, CST 5.00 s, CCSR 98.87 %, MOS 95.75 %, Data Throughput 7477 kbps. 
+
+Dan di sepanjang jalur mudik kereta Pulau Jawa sepanjang 1689 km hasilnya adalah sebagai berikut: CSSR 99.09 %, CST 7.00 s, 99.58 %, MOS 97.20% , Data Throughput 4939 kbps. Sedangkan di jalur Sumatera sepanjang 6817 km hasilnya: CSSR 96.42 %, CST 5.74 s, 99.58 %, MOS 96.52% , Data Throughput 4739 kbps.
+
+Telkomsel memprediksi akan terjadi lonjakan trafik komunikasi pada layanan data di daerah jalur mudik dan tujuan wisata jika dibandingkan dengan trafik di hari biasa. Lonjakan trafik pada layanan data berkisar 20%-25% menembus 5.809 Tera Byte. Sementara layanan suara diprediksi mengalami penurunan 3%-6%, jadi mencapai 1,37 milliar menit, dan SMS berkisar antara 1%-3% mencapai 720 juta SMS.
+
+Untuk mengantisipasi hal tersebut, Telkomsel melakukan serangkaian kegiatan optimalisasi jaringan, seperti menjaga ketersediaan VLR (Visitor Location Register) atau kecukupan kapasitas daya tampung pelanggan. Di sepanjang jalur utama mudik di Pulau Jawa dan Sumatera telah disediakan kelonggaran 35%-60%, seperti Jawa Barat 38%, Jawa Tengah 48%, dan Jawa Timur 57% dan Sumatera Selatan 58%.                                                    (ash/rou)                                                   				telkomsel                                       

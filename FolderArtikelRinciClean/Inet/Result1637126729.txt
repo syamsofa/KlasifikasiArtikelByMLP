@@ -1,0 +1,15 @@
+              Yogyakarta - Ratusan robot buatan para pelajar membuktikan kehebatan. Robot-robot ini beradu dalam 'Kontes Robot Pintar Yogyakarta' (KRPY) yang digelar di Taman Pintar Yogyakarta, 22-23 Oktober 2016.
+
+Kepala Taman Pintar Yogyakarta, Yunianto Dwisutono menjelaskan kontes ronbot pelajar diikuti sebanyak 212 tim (1 tim terdiri dari 3 siswa dan 1 guru pembimbing). Peserta berasal dari berbagai sekolah dari DI. Yogyakarta, Jawa Tengah, Bekasi dan Palembang.
+
+"Tahun ini peserta meningkat 40 persen dibanding tahun lalu. Untuk kali ini ada 5 kategori yang diperlombakan," kata Yunianto di Taman Pintar Yogyakarta, Sabtu (22/10/2016).
+
+                      Kategori yang dilombakan yakni; Kategori A (Senior), yang diikuti 80 tim, mempertandingkan robot beroda peniti garis (Line Follower Robot) dan pemadam api dengan konstruksi otomatisasi tanpa mikrokontroler bagi pelajar SMA/SMK atau sederajat.
+
+Kategori B (Junior), untuk peserta dari pelajar SMP atau sederajat. Diikuti oleh 43 tim, mempertandingkan robot beroda penjejak cahaya (Light Surveillance Robot) dan pemadam api dengan konstruksi manual tanpa mikrokontroler.
+
+Kategori C (Expert), diikuti oleh 20 tim, mempertandingkan robot beroda peniti garis (Line Follower Robot) dengan konstruksi menggunakan mikrokontroler yang diprogram untuk menyusuri labirin (maze) dengan beberapa tantangan di dalamnya. Kategori ini diperuntukkan bagi pelajar SMA/SMK sederajat, yang juga dibuka bagi pelajar SMP atau sederajat.
+
+Kategori D (Umum), diikuti oleh 28 tim, mempertandingkan robot beroda kendali cahaya dengan sistem saling dorong antar robot hingga keluar arena. Kategori ini juga membuka peluang bagi pelajar SD atau sederajat untuk mengikutinya.
+
+Kategori E (untuk SD), dengan mempertandingkan robot yang diperintah melalui sebuah pengendali jarak jauh untuk mengumpulkan bola ping-pong bertanda yang sesuai dengan soal perhitungan tertentu. Kategori ini diikuti oleh 41 tim.                                                    (yud/yud)                                                   				yogyakarta                                       

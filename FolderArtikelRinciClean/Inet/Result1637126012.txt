@@ -1,0 +1,33 @@
+Jakarta -
+
+Publik Tanah Air kembali dihebohkan dengan kabar kebocoran data pemilih yang bersumber dari KPU. Menurut Lembaga Riset Siber Indonesia CISSReC (Communication & Information System Security Research Center), data yang disebar itu dinilai berbahaya karena adanya data nomor KTP dan KK.
+
+Adapun data yang disebar di forum internet mencakup nama, jenis kelamin, alamat, nomor KTP dan KK, tempat tanggal lahir, usia, status lajang atau menikah. Data yang disebar pelaku adalah data 2013, setahun sebelum pemilu 2014, sebagian besar data pemilih DIY. Akun yang menyebarkan di Raid Forums adalah Arlinst.
+
+Adalah akun twitter @underthebreach yang pertama kali mengabarkan hal ini. Saat dicek di Raid Forums data yang disajikan plain dan bisa di-download member secara gratis.
+
+"Data yang disebar tanpa enkripsi sama sekali. Nomor KTP dan KK bersamaan misalnya bisa digunakan untuk mendaftarkan nomor seluler dan juga melakukan pinjaman online bila pelaku mahir melengkapi data," jelas chairman lembaga riset siber Indonesia CISSReC Pratama Persadha dalam keterangan tertulisnya, Jumat (22/5/2020).Baca juga: Di Tengah Pandemi Corona, Pentingnya Ahli IT Tangkis Serangan Hacker
+
+"Saat dicek kembali, halaman yang dibuka oleh akun Arlinst ini sudah hilang. Bahkan, saat dicek di Twitter banyak akun yang men-tracking akun Arlinst dan mencurigai akun tersebut sedang mencari sensasi, terlihat dari beberapa akun medsos dan marketplacenya," jelas pria asal Cepu Jawa Tengah ini.
+
+Terakhir di Raid Forums terpantau data sudah didownload oleh sekitar 100 akun. Untuk mengunduh sendiri harus memiliki minimal 8 kredit, yang setiap 30 kredit harus dibeli seharga 8 euro via Paypal.
+
+"Meski KPU menjelaskan bahwa itu adalah data terbuka, tapi bukan berarti tidak perlu dilindungi. Bukan informasi rahasia, tapi informasi yang perlu dilindungi minimal dienkripsi agar tidak sembarangan orang bisa memanfaatkan. Apalagi verifikasi data DPT hanya perlu data NIK, bukan semua data dijadikan satu apalagi tanpa pengamanan," terangnya.
+
+Pratama menambahkan bila data ini dikombinasikan dengan data Tokopedia dan Bukalapak yang lebih dulu terekspos, maka akan dihasilkan data yang cukup berbahaya dan bisa dimanfaatkan untuk kejahatan.Baca juga: Lembaga Riset Ungkap Hacker Pembobol Data Pengguna Tokopedia
+
+"Misalnya mengkombinasikan data telepon dari marketplace dengan data KTP dan KK, jelas ini sangat berbahaya," jelasnya.
+
+Pratama menilai peristiwa ini juga harus menjadi peringatan bagi Dukcapil agar bisa mengamankan data kependudukan. Perlu dipikirkan lebih jauh terkait pengamanan enkripsi pada data penduduk. CISSRec menilai peristiwa ini juga membuat pengamanan sistem IT KPU dipertanyakan. Apalagi 2020 ada agenda pilkada, jangan sampai ini menjadi isu tersendiri bagi KPU. Selama ini sistem IT KPU selalu dijadikan rujukan saat hitung cepat hasil pemilu maupun pilkada.
+
+"Kita tentu khawatir, setiap gelaran pemilu dan pilkada KPU selalu mendapat ancaman untuk diretas. Bagi dukcapil kerawanan ini harus menjadi catatan penting untuk waspada, jangan sampai sistem ditembus dan peretas bisa memodifikasi sesuka mereka," tegas Pratama.
+
+Namun Pratama juga melihat ada kemungkinan data yang disebar memang sebelumnya sudah ada di publik. Karena data pemilu 2014 sudah lama tersebar di forum internet. Seluruh data DPT ternyata juga di share ke beberapa stakeholder KPU. Tetapi kalau melihat isi folder DPT DIY yang ikut dipublish, sepertinya ada kemungkinan memang si peretas bisa masuk ke sistem IT KPU atau sistem IT stakeholder KPU yang juga memiliki data ini.
+
+Untuk memastikannya harus segera dilakukan audit keamanan informasi atau audit digital forensic ke sistem IT KPU untuk menjawab isu kebocoran data ini. Audit ini juga bisa menemukan sebab dan celah kebocoran sistem kalau memang ada. Karena kalau pelaku bisa masuk ke server KPU, ada kemungkinan tak hanya DPT yang mereka ambil, tapi juga bisa mengakses hasil perhitungan Pemilu.
+
+Secara teknis kalau peretas bisa mencuri data, ada kemungkinan juga bisa merubah data. Sangat bahaya sekali apabila hasil pemungutan suara pemilu diubah angkanya.                          
+
+Simak Video "Jubir: Masalah Kebocoran Data Bukan Hanya Tugas Kominfo Sendiri "
+ [Gambas:Video 20detik]
+                           (agt/fyk)                                                   				kebocoran data				kpu				hacker                                       

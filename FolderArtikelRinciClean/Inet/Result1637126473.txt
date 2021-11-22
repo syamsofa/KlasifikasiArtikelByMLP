@@ -1,0 +1,84 @@
+              Jakarta - Seperti disampaikan Kementerian Komunikasi dan Informatika, terhitung 21 November 2017 telah dimulai kegiatan Penataan Ulang Pita Frekuensi Radio 2.1 GHz untuk Keperluan Penyelenggaraan Jaringan Bergerak Seluler. 
+
+Telah disampaikan juga skenario implementasi penataan ulang untuk masing-masing operator seluler. Namun demikian, masih menjadi pertanyaan banyak pihak bagaimana mengatur wilayah yang mengalami penataan (cluster) serta bagaimana pula mengatur jadwalnya. Tulisan berikut ini akan menjelaskan beberapa hal tersebut.
+ 
+Membagi Cluster Wilayah
+
+Membagi wilayah layanan yang mengalami penataan ulang (cluster) merupakan salah satu hal penting dan cukup pelik yang perlu disepakati oleh semua operator. Hal ini disebabkan strategi penggelaran jaringan operator seluler yang berbeda-beda tergantung pada target atau fokus pasar, konfigurasi jaringan, kondisi trafik dan lain sebagainya. 
+
+                      Alhamdulillah, penataan ulang pita frekuensi telah berkali-kali sukses dilakukan, sehingga bisa menggunakan referensi pembagian cluster wilayah yang terbaru ditambah dengan pembaruan terkini.
+
+Oleh karena itu, sesuai dengan kesepakatan dengan seluruh operator seluler yang terkait, penataan ulang pita frekuensi 2,1 GHz kali ini menggunakan referensi pembagian cluster wilayah pada penataan ulang pita frekuensi 1800 MHz yang dilakukan pada tahun 2015 yang lalu. 
+
+Bedanya, hanya ditambahkan dengan beberapa kabupaten/kotamadya yang sebelumnya belum masuk atau baru, mengacu pada Peraturan Mendagri Nomor 56 Tahun 2015 tentang Kode dan Data Wilayah Administrasi Pemerintahan.
+ 
+Secara keseluruhan, penataan ulang pita frekuensi radio 2,1 GHz yang dilakukan tahun 2017 ini terbagi atas 42 cluster wilayah yang umumnya dibagi berdasarkan provinsi di seluruh Indonesia yang meliputi seluruh kabupaten dan kotamadya. Misalnya Pulau Papua dibagi menjadi Cluster Papua yang terdiri dari seluruh kota/kabupaten di provinsi Papua serta Cluster Papua Barat yang meliputi seluruh kota/kabupaten di propinsi papua barat.
+
+ Demikian pula di Kepulauan Maluku dibagi menjadi cluster Maluku (3) dan Maluku Utara (4). Adapun Pulau Kalimantan dibagi menjadi Cluster Kalimantan Timur, Kalimantan Utara, Kalimantan Selatan, Kalimantan Tengah, dan Kalimantan Barat. 
+ 
+Untuk provinsi yang padat penduduknya, dapat dipecah lagi menjadi beberapa cluster agar memiliki beban dan dampak yang relatif seimbang. Dan bisa pula kabupaten yang konfigurasi jaringannya lebih dekat dimasukkan kedalam provinsi terdekat. 
+
+Misalnya Provinsi Sumatera Utara dipecah menjadi Cluster Sumatera Utara 1 dan Sumatera Utara 2, Provinsi Jawa Timur dipecah menjadi Cluster Jawa Timur 1 (utara), Jawa Timur 2 (timur) dan Jawa Timur 3 (selatan). Provinsi Jawa Tengah dipecah menjadi Cluster Jawa Tengah 1, Jawa Tengah 2 dan Jawa Tengah 3. Provinsi Jawa Barat dibagi menjadi Cluster Jawa Barat 1 dan Jawa Barat 2. 
+
+Demikian pula dengan Provinsi DKI Jakarta dipecah menjadi cluster Jakarta 1 (Jakarta Pusat, Jakarta Barat, Jakarta Timur, Jakarta Utara, Jakarta Selatan, Kepulauan Seribu, Kota Tangerang dan Kota Tangerang Selatan) dan Cluster Jakarta 2 (Kota dan Kab Bogor, Kota Bekasi, Kota Depok dan Kab Karawang).
+ 
+Selain itu juga mempertimbangkan konfigurasi jaringan dan kemudahan implementasi, kota-kota tertentu dapat dikategorikan sebagai cluster tersendiri seperti Cluster Sukabumi (Kabupaten dan Kota) dan Cluster Purwakarta. Pembagian Cluster Wilayah untuk penataan ulang pita frekuensi 2.1 GHz selengkapnya dapat dilihat digambar dibawah ini.
+
+Foto: Pembagian Cluster untuk Implementasi Penataan Ulang Pita Frekuensi 2.1 GHz Tahun 2017
+
+Mengatur Jadwal Penataan Ulang 2,1 GHz
+
+Seperti yang telah disampaikan dalam tulisan sebelumnya, tahapan pelaksanaan penataan ulang pita frekuensi 2,1 GHz dibagi menjadi 2 tahap. Pada Tahap 1, Indosat berpindah dari Blok 6 dan 7 menjadi Blok 11 dan 12. 
+
+Bila sudah dapat dipastikan hasilnya baik, maka dilanjutkan dengan Tahap 2 yaitu Telkomsel berpindah dari Blok 3 ke Blok 6 dan XL berpindah dari Blok 10 ke Blok 7. Dengan demikian, dari penataan ulang ini akan dihasilkan pita frekuensi yang berdampingan (contigous) untuk masing-masing operator yaitu Tri (sebesar 15 MHz FDD), Telkomsel (sebesar 15 MHz FDD), XL (sebesar 15 MHz FDD) dan Indosat (sebesar 15 MHz FDD). 
+
+Mengingat ada blok frekuensi yang kosong, maka sebenarnya pelaksanaan penataan ulang ini lebih sederhana dibandingkan penataan ulang pita frekuensi radio 1800 MHz tahun 2015. Namun pekerjaannya lebih berat karena BTS (nodeB dan eNodeB) yang dipindahkan jauh lebih besar yaitu sekitar 120.711 BTS Telkomsel, XL dan Indosat (3G & 4G) dan 2.175 Repeater milik ketiga Operator tersebut. 
+ 
+Sesuai dengan Keputusan Menteri Kominfo Nomor 1998 Tahun 2017, kegiatan penataan ulang ini harus diselesaikan paling lama pada tanggal 25 April 2018. Seluruh operator yang beroperasi pada pita frekuensi 2,1 GHz juga telah menyepakati jadwal penataan ulang untuk masing-masing operator sesuai dengan skenario tahapan pelaksanaan yang ditetapkan. 
+ 
+Pada Bulan November 2017, Indosat akan melaksanakan Penataan Ulang pita frekuensi 2,1 GHz pada tanggal 21 November 2017 di Cluster Bangka Belitung dan Cluster Kalimantan Tengah. 
+
+Kemudian dilanjutkan tanggal 28 November 2017 di Cluster Banten. Pada Bulan Desember 2017, dijadwalkan Indosat kembali akan melaksanakan penataan ulang berturut-turut pada tanggal 7 Desember 2017 di Cluster Bali, 14 Desember 2017 di Cluster Jawa Timur 2, dilanjutkan pada tanggal 19 Desember dan 21 Desember 2017 di Cluster Jawa Timur 3.
+ 
+Sedangkan pada Januari 2018, Indosat melanjutkan penataan ulang pada tanggal 4 Januari 2018 di Cluster Nusa Tenggara Barat, Cluster Nusa Tenggara Timur dan Cluster Jawa Timur 1. Dilanjutkan pada tanggal 9 Januari di Cluster Sulawesi Selatan dan Cluster Jawa Timur 1. 
+
+Kemudian tanggal 11 Januari 2018 dilanjutkan di Cluster Sulawesi Tenggara, Sulawesi Utara, Sulawesi Tengah dan menuntaskan Cluster Jawa Timur 1. Pada tanggal 15 Januari 2018, giliran Telkomsel dan XL melakukan penataan ulang di Cluster Papua. Masih pada tanggal yang sama, XL secara serempak dijadwalkan untuk melakukan penataan ulang di Cluster Papua Barat, Maluku, Maluku Utara, Kalimantan Tengah, Sulawesi Barat, Gorontalo dan Sulawesi Tengah. 
+
+Dilanjutkan pada tanggal 16 Januari 2018, Indosat melakukan penataan ulang di Cluster Aceh, Riau, Bengkulu dan Jambi. Pada Tanggal 17 Januari 2018, Telkomsel dijadwalkan menuntaskan penataan ulang di Cluster Papua dan XL melakukan penataan ulang untuk Cluster Sulawesi Tenggara. Keesokan harinya, pada tangal 18 Januari 2018, Indosat melanjutkan penataan ulang di Cluster Kepulauan Riau dan Sumatera Barat.
+ 
+Pada tanggal 1 Pebruari 2018, Indosat mengawali dengan menata ulang frekuensinya di Cluster Lampung dan Sukabumi. Dilanjutkan pada tanggal 5 Pebruari 2018, Telkomsel menata ulang frekuensinya di Cluster Kalimantan Tengah sedangkan XL menata ulang frekuensinya di Cluster Kalimantan Timur, Nusa Tenggara Barat, Nusa Tenggara Timur, Sumatera Barat dan Lampung. Pada tanggal 6 Pebruari 2018, Indosat melanjutkan penataan ulang frekuensinya di Cluster Sumatera Utara 1, Sumatera Utara 2, Jawa Tengah 1, Banten dan Jakarta 1. 
+
+Kemudian pada tanggal 7 Pebruari 2018, Telkomsel melanjutkan penataan ulang frekuensinya di Cluster Kalimantan Tengah sedangkan XL menata ulang frekuensinya di Cluster Riau dan Sukabumi. Pada tanggal 8 Pebruari 2018, giliran Indosat yang melanjutkan penataan frekuensinya di Cluster Sumatera Utara 1, Sumatera Utara 2, Jawa Tengah 2 dan Jakarta 1. 
+
+Selanjutnya pada tanggal 12 Pebruari 2018, Telkomsel menata ulang frekuensinya di Cluster Kalimantan Barat dan XL di Cluster Sumatera Utara 2. Dilanjutkan pada tanggal 13 Pebruari 2018, Indosat menata ulang frekuensinya di Cluster Sumatera Selatan, Jawa Tengah 3, Jakarta 1 dan Jakarta 2. Pada Tanggal 14 Pebruari 2018, Telkomsel melanjutkan penataan ulang frekuensinya di Cluster Kalimantan Barat sedangkan XL di Cluster Sumatera Utara 1 dan Banten. 
+
+Kemudian pada tanggal 15 Pebruari 2018, Indosat dijadwalkan untuk menata ulang frekuensinya di Cluster Jawa Tengah 2, Jawa Barat 1, Purwakarta dan Jakarta 2. Selanjutnya pada tanggal 19 Pebruari 2018, Telkomsel menata ulang frekuensinya di Cluster Nusa Tenggara Barat, Sumatera Selatan dan Gorontalo sedangkan XL di Cluster Jawa Timur 2 dan Jawa Timur 3. Pada Tanggal 20 Pebruari 2018, Indosat menata ulang frekuensinya di Cluster Jawa Tengah 2 dan Jawa Barat 1. 
+
+Pada Tanggal 21 Pebruari 2018, Telkomsel menata ulang frekuensinya di Cluster Sulawesi Tenggara, Nusa Tenggara Barat dan Sulawesi Tengah sedangkan XL di Cluster Jawa Timur 2 dan Jawa Timur 3. Pada tanggal 22 Pebruari 2018, Indosat menata ulang frekuensinya di Cluster Jawa Tengah 3 dan Jawa Barat 1. Dilanjutkan pada tanggal 26 Pebruari 2018, Telkomsel menata ulang frekuensinya di Cluster Sulawesi Selatan, Sulawesi Barat dan Nusa Tenggara Timur sedangkan XL di Cluster Sumatera Selatan, Bali dan Jawa Tengah 1. 
+
+Kemudian Tanggal 27 Pebruari 2018, Indosat menata ulang frekuensinya di Cluster Jawa Tengah 3 dan Jawa Barat 2. Dilanjutkan tanggal 28 Pebruari 2018, Telkomsel menata ulang frekuensinya di Cluster Sulawesi Selatan dan Nusa Tenggara Timur sedangkan XL menuntaskan penataan frekuensinya di Cluster Sumatera Selatan, Bali dan Jawa Tengah 1.
+ 
+Pada Bulan Maret 2018, Indosat mengawali penataan ulang frekuensinya di Cluster Jawa Barat 2, selanjutnya tanggal 5 Maret 2018 giliran Telkomsel yang menata ulang frekuensinya di Cluster Aceh dan Bali sedangkan XL menata ulang frekuensinya di Cluster Bali, Jawa Tengah 3 dan Jakarta 2. Pada tanggal 7 Maret 2018, Telkomsel melanjutkan penataan ulang di Cluster Aceh, Riau, Sumatera Utara 1 dan Bali sedangkan XL melanjutkan penataan ulang frekuensinya di Cluster Bali, Jawa Tengah 3 dan Jakarta 2. 
+
+Selanjutnya pada tanggal 12 Maret 2018, Telkomsel dijadwalkan menata ulang frekuensinya di cluster Sumatera Utara 2, Bangka Belitung, Bengkulu, Jambi serta Bali sedangkan XL menata ulang frekuensinya di Cluster Jawa Timur 1 dan Jakarta 2. Selanjutnya pada Tanggal 14 Maret 2018, Telkomsel dijadwalkan menata ulang frekuensinya di Cluster Sumatera Barat, Lampung dan Sumatera Selatan, sedangkan XL melanjutkan penataan ulang frekuensinya di Cluster Jawa Timur 1 dan Jakarta 2. 
+
+Pada tanggal 19 Maret 2018, Telkomsel melakukan penataan ulang di cluster Kepulauan Riau sedangkan XL di Cluster Jawa Timur 1 dan Jakarta 1. Selanjutnya pada tanggal 21 Maret 2018, Telkomsel menata ulang frekuensinya di cluster Banten, sedangkan XL melanjutkan penataan ulang di cluster Jawa Timur 1 dan Jakarta 1. Pada tanggal 26 Maret serta 28 Maret 2018, Telkomsel dijadwalkan menata ulang frekuensinya di Jakarta 1 sedangkan XL di cluster Jawa Tengah 2 dan Jakarta 1.
+ 
+Pada tanggal 2 April 2018, XL menata ulang frekuensinya pada di Cluster Purwakarta dan Cluster Jakarta 1 sedangkan Telkomsel menata ulang frekuensinya di Cluster Sukabumi dan Jakarta 2. Selanjutnya pada tanggal 4 April 2018, Telkomsel menata ulang frekuensinya di Cluster Jawa Barat 1, Purwakarta, Jakarta 1 dan Jakarta 2 sedangkan XL menata ulang frekuensinya di Cluster Purwakarta dan Jakarta 1. 
+
+Minggu berikutnya pada tanggal 9 April 2018, Telkomsel menata ulang frekuensinya di Cluster Jawa Barat 1 dan Jawa Barat 2 sedangkan XL menata ulang frekuensinya di Cluster Jawa Barat 1 dan Jakarta 1. Pada tanggal 11 April 2018, XL melanjutkan penataan ulang di Cluster Jawa Barat 1 dan Jakarta 1. Selanjutnya pada tanggal 16 April 2018, Telkomsel menata ulang frekuensinya di Cluster Jawa Tengah 1 sedangkan XL dijadwalkan masih melanjutkan di Cluster Jawa Barat 1 dan Jakarta 1. 
+
+Pada tanggal 18 April 2018, Telkomsel melanjutkan penataan ulang di Jawa Tengah 2 dan Jawa Tengah 3 sedangkan XL menuntaskan penataan ulang frekuensi di Cluster Jawa Barat 1 dan Jakarta 1. Akhirnya Telkomsel menyelesaikan penataan ulang sekaligus mengakhiri seluruh rangkaian kegiatan pada tanggal 23 April 2018 di Cluster Jawa Timur 1 dan Jawa Timur 3 yang dilanjutkan pada tanggal 25 April 2018 di Cluster Jawa Timur 1 dan Jawa Timur 2. 
+
+Penutup
+
+Melihat cakupan, lama waktu dan intensitasnya, terlihat bahwa kegiatan penataan ulang frekuensi ini melibatkan sumberdaya yang cukup besar. Secara keseluruhan proses penataan ini mencakup 34 Provinsi dan 514 Kota/Kabupaten dengan lama waktu kegiatan sekitar 156 hari kalender dengan melibatkan 120.711 BTS (3G dan 4G) serta 2.175 repeater legal. 
+
+Oleh karena itu, telah disiapkan sekurangnya 200 personel yang siap siaga, baik dari Kementerian Kominfo, BRTI maupun operator seluler yang terdiri dari Person in Charge (PIC), Project Manager dan Penanggung Jawab Cluster untuk menjamin kelancaran kegiatan ini agar masyarakat segera dapat menikmati layanan mobile internet yang lebih baik. 
+
+Semoga kegiatan ini berjalan dengan baik sesuai dengan yang telah direncanakan dan tentunya, sangat diharapkan doa, dukungan dan pengertian dari segenap masyarakat Indonesia. 
+ 
+Berbagai antisipasi dan mitigasi telah dilakukan, namun demikian, apabila masyarakat ada yang mengalami gangguan pada proses pelaksanaan penataan ulang frekuensi pada jadwal diatas, diharapkan agar mengubungi call centernya operator masing-masing. Terima kasih atas dukungan semua pihak kepada tim pelaksana sehingga kegiatan dapat berjalan dengan baik dan lancar.
+
+ 
+ *) Penulis adalah Komisioner Badan Regulasi Telekomunikasi Indonesia (BRTI). Anggota Tim Seleksi Pengguna Pita Frekuensi Radio 2,1 GHz untuk Keperluan Penyelenggaraan Jaringan Bergerak Seluler Tahun 2017. Dapat dihubungi melalui email: imam@brti.or.id.                                                    (rou/rou)                                                   				tata ulang frekuensi				kolom telematika                                       

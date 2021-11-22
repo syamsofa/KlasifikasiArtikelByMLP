@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rubix/ml": "^1.2",
+        "markrogoyski/math-php": "^2.4"
+    }
+}

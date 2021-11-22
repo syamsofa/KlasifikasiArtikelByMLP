@@ -1,0 +1,33 @@
+Jakarta -
+
+Pakar keamanan siber Pratama Persadha mengatakan bahwa Facebook, Instagram dan WhatsApp down secara berjamaah diduga akibat human error.
+
+Akibat Facebook dan anak perusahaannya tumbang, para pengguna layanan tersebut kalang kabut, di mana hal ini merupakan yang terparah sejak kejadian serupa pada 2019, ketika itu down sampai lebih dari 24 jam. Sementara Facebook, Instagram, dan WhatsApp down kemarin berlangsung enam jam.
+
+Pratama menjelaskan menjelaskan bahwa kemungkinan ada kesalahan pada DNS (Domain Name System), namun apa yang menyebabkan DNS bermasalah tentu pihak Facebook yang lebih tahu.
+
+Baca juga: 70 Juta Orang Hijrah ke Telegram Gegara WhatsApp Down
+
+"DNS ini mengantarkan URL tertentu dalam hal ini facebook.com ke IP tertentu di mana Facebook berada. Dalam kasus ini ada yang menarik keluar authoritative DNS route yang memungkinkan semua jaringan internet berkomunikasi dengan Facebook. Hal ini bisa juga terjadi karena human error," tutur Chairman lembaga riset keamanan siber CISSReC ini dalam keterangan tertulisnya, Rabu (6/10/2021).
+
+Pratama menambahkan, bahwa kemungkinan ada kesalahan sistem memang cukup serius. Buktinya, kata Pratama, sistem untuk komunikasi di internal Facebook juga ikut down.
+
+"Dari keterangan internal Facebook, mereka juga akhirnya menggunakan Outlook untuk berkomunikasi sementara, karena sistem komunikasi internal mereka juga ikut down. Bahkan sejumlah pegawai Facebook langsung diturunkan ke pusat data mereka, untuk menangani masalah," ungkap Pratama.
+
+Menurutnya kemungkinan hilangnya authoritative DNS route pada Facebook semakin menguat dengan perbaikan yang harus dilakukan di pusat data Facebok. Artinya, para engineer Facebook juga tidak bisa mengakses sistem Facebook dari luar pusat data, karena ketiadaan DNS.
+
+Baca juga: WhatsApp Down, Signal Kedatangan Jutaan Pengguna Baru
+
+"Pada 2019, setidaknya empat kali Facebook, Whatsapp dan Instagram mengalami gangguan secara bersamaan. Menurut pengakuan Facebook beberapa penyebab diantaranya karena ada update sistem baru pada layanan digital tersebut," kata pria asal Cepu, Jawa Tengah ini.
+
+"Namun, kemungkinan peretasan itu juga ada. Jika akar permasalahanya di DNS, penyebabnya bisa miss configuration oleh kesalahan manusia atau karena peretasan. Karena memang sudah berkali-kali down, dan kalau disebabkan kesalahan konfigurasi atau human error, sepertinya tidak mungkin bisa terulang terus," sambungnya.
+
+Lebih jauh Pratama menambahkan bahwa kita tidak bisa terus menerus bergantung pada layanan asing. Sebaiknya, pemerintah menjadikan kemandirian aplikasi siber sebagai salah satu program utama beberapa tahun mendatang.
+
+"Kita perlu aplikasi medsos lokal, email lokal dan aplikasi chat lokal. Perlu dibangun bertahap, karena jangka panjang kita sangat perlu dalam era big data saat ini. Agar tidak semua potensi ekonomi digital dikuasai orang lain, belum lagi ini juga terkait pertahanan siber negara," imbuh Pratama.
+
+Disampaikannya layanan Facebook, Whatsapp dan Instagram ini pengaruhnya sudah sangat jauh, tidak hanya sebagai hiburan di dunia maya. Facebook misalnya, sudah menjadi lebih kuat dari negara dengan lebih dari 2 miliar pemaka, bahkan akan mengeluarkan mata uang sendiri.                          
+
+Simak Video "WhatsApp-Instagram-Facebook Tumbang! "
+ [Gambas:Video 20detik]
+                           (agt/fay)                                                   				whatsapp down				instagram down				facebook down				whatsapp				instagram				facebook                                       

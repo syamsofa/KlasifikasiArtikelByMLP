@@ -1,0 +1,19 @@
+Jakarta -
+
+Baru kemarin database KPAI bocor, kini kejadian serupa menimpa Bank Jatim. Data nasabah diduga bocor dan diperjualbelikan di forum hacker seharga USD 250 ribu atau sekitar Rp 3,5 miliar.
+
+Adalah akun @bl4ckt0r yang menjajakannya di situs Raidforums. Data yang ditawarkan berukuran cukup besar, yakni 378GB.
+
+"Isinya meliputi 259 database beserta informasi sensitif seperti data nasabah, data karyawan, data keuangan pribadi, dan masih banyak lagi," ungkap Dr. Pratama Persadha, Chairman Lembaga Riset Keamanan Siber CISSReC.                      Baca juga: KPAI Benarkan Ada Pencurian Data dan Lapor PolisiData Bank Jatim Bocor Foto: screenshot
+
+Pratama menilai data-data yang bocor sangat sensitif dan rentan disalahgunakan di internet, seperti penipuan online seperti yang kerap terjadi belakangan. Karena itu kebocoran data harus menjadi perhatian khusus pemerintah.
+
+"Tentu ini menjadi perhatian serius pemerintah. Perlu dilakukan forensik digital untuk mengetahui celah keamanan mana yang dipakai untuk menerobos, apakah dari sisi SQL (Structured Query Language) sehingga diekspos SQL Injection atau ada celah keamanan lain," kata pria asal Cepu, Jawa Tengah ini.
+
+Pratama menjelaskan, sebaiknya penguatan sistem dan SDM harus ditingkatkan, adopsi teknologi utamanya untuk pengamanan data juga perlu dilakukan. Indonesia sendiri masih dianggap rawan peretasan karena memang kesadaran keamanan siber masih rendah. Yang terpenting dibutuhkan UU PDP yang isinya tegas dan ketat seperti di eropa. Ini menjadi faktor utama, banyak peretasan besar di tanah air yang menyasar pencurian data pribadi
+
+"Sudah berkali - kali kejadian seperti ini, seharusnya Pemerintah dan DPR bisa sepakat untuk menggolkan UU PDP, Tanpa UU PDP yang kuat, para pengelola data pribadi baik lembaga negara maupun swasta tidak akan bisa dimintai pertanggungjawaban lebih jauh dan tidak akan bisa memaksa mereka untuk meningkatkan teknologi, SDM dan keamanan sistem informasinya," pungkasnya.Baca juga: Jika Database KPAI Benar Bocor, Hackernya Tak Punya Etika!                          
+
+Simak Video "Jubir: Masalah Kebocoran Data Bukan Hanya Tugas Kominfo Sendiri "
+ [Gambas:Video 20detik]
+                           (afr/afr)                                                   				bank jatim				kebocoran data                                       

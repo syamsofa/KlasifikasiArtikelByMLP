@@ -1,0 +1,27 @@
+Jakarta -
+
+Lembaga Riset Siber Indonesia CISSReC (Communication and Information System Security Research Center) melakukan analisis terhadap kasus kebocoran data yang dialami situs marketplace Lazada dan Cermati dalam kurang waktu seminggu.
+
+Chairman CISSReC Pratama Persadha mengatakan terkait kabar bocornya data pengguna Lazada itu, harus digarisbawahi bahwa breach data atau kebocoran data tersebut terjadi di sistem Redmart, yang memang ada di bawah Lazada. Sistem Redmart itu sudah terintegrasi sejak 2019, ketika perusahaan tersebut diakuisi Lazada pada 2016.
+
+Pihak Lazada sendiri mengklaim kalau kebocoran data yang dialami mereka hanya di database milik Redmart. Adapun persoalan tersebut dikarenakan adanya akses ilegal yang kemungkinan berasal dari hosting pihak ketiga, yang terakhir diperbaharui tahun 2019.                      Baca juga: 81% Kebocoran Data Disebabkan Password yang Dibobol
+
+"Ada kemungkinan ini juga terkait proses integrasi sistem yang terjadi juga pada 2019. Namun, ini lebih dalam harus dilakukan penyelidikan lebih jauh," sebut Pratama, Senin (2/11/2020).
+
+Diketahui, data yang bocor sebanyak 1,1 juta juga hanya data Redmart, akan tetapi cukup variatif informasinya bahkan ada data kartu kredit. Lazada mengatakan kepada penggunanya diminta tenang, meskipun dianjurkan untuk menggantikan password.
+
+"Terutama warga Indonesia di Singapura yang menggunakan redmart harus mengganti password segera dan mengecek status kartu kredit mereka," kata pria asal Cepu, Jawa Tengah ini.
+
+"Ini penting untuk tahu apakah ada transaksi ilegal tanpa sepengetahuan mereka, karena datanya sudah dijual di darkweb dengan harga 1.500 dollar US. Bahkan saat dicek di raid forums tanah air, sudah ada yang menjualnya," tuturnya.
+
+Lebih lanjut lagi, disampaikan Pratama, di raidforums juga ramai diperjualbelikan data Cermati sebanyak 2,9 juta user. Penjualnya, ungkap CISSReC, dengan username "expertdata".Baca juga: Kebocoran Data Marak Lagi, Kominfo Didesak Bertindak
+
+"Bukan hal baru peristiwa peretasan data marketplace, karena memang banyak data yang disimpan dalam sistem mereka. Dalam kasus Cermati ini cukup berbahaya," ungkap Pratama.
+
+Kebocoran data yang dialami Cermati ini ada 2,9 juta data user yang diambil dari kegiatan 17 perusahaan, sebagian besar kegiatan finansial. Mulai dari KTA, asuransi sampai kartu kredit.
+
+"Karena itu perlu dilakukan penyelidikan mendalam lewat digital forensik, diamankan saja lubang keamanan yang mengakibatkan breach data terjadi," pungkas dia.                          
+
+Simak Video "Jubir: Masalah Kebocoran Data Bukan Hanya Tugas Kominfo Sendiri "
+ [Gambas:Video 20detik]
+                           (agt/fyk)                                                   				kebocoran data				lazada				cermati                                       

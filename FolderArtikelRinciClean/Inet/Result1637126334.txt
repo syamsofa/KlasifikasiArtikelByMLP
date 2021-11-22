@@ -1,0 +1,36 @@
+              Jakarta - Pascagempa di wilayah Lombok Utara, layanan telekomunikasi masih terus dinormalisasi dengan cara memobilisasi genset mobile imbas putusnya pasokan listrik PLN.
+
+"Imbas putusnya pasokan listrik PLN ini menyebabkan layanan komunikasi terkendala dan tidak optimal," kata Executive Vice President Jawa Bali Agus Setia Budi, Rabu (8/8/2018).
+
+Dipaparkan olehnya, Telkomsel hingga saat ini masih memobilisasi genset mobile untuk mengaktifkan BTS yang mengalami gangguan serta berkoordinasi dengan pihak-pihak terkait untuk percepatan pemulihan pasokan listrik PLN.
+
+                      Ia juga mengatakan, kantor pusat Telkomsel bersama kantor regional Bali Nusra dan kantor branch Mataram telah menyediakan Posko Tanggap Darurat di wilayah terdampak gempa. Sementara kondisi karyawan Telkomsel di wilayah terdampak, khususnya karyawan organik dinyatakan aman. 
+
+"Karyawan organik berada di Kota Mataram. Sedangkan kondisi Tim FMC (Field Maintenance Contractor) dan TSA sebanyak 35 orang juga aman lokasi terdekat kurang dari 20 kliometer ada di pelabuhan Kayangan. Ada satu orang keluarga tim FMC terluka dan rumah roboh, dan saat ini sedang dalam proses penanganan," ungkap Agus.
+
+Sementara dampak bencana terhadap infrastruktur Telkomsel, kata Agus, diantaranya terkendala di sektor transport yakni SKKL Telkom Mataram-Sumbawa Bending di KM 39 dari Sengigi yang berimpact terhadap Kupang - Renon 1x10G; Renon - Doruluwu 1x1G; Renon - Sumbawa 4x1G dan Renon - Bima 2x1G. 
+
+Baca juga: 945 BTS di Lombok Kena Imbas Gempa
+
+Adapun aksi yang dilakukan yakni untuk layanan Sumbawa menggunakan link Metro Selong (Lombok)-Maluk (Sumbawa) via IP Radio Telkom  4x1G. Kemudian, integrasi link Metro Bima (Sumbawa) - Ende (Flores) 2x10G dan integrasi link Metro Ende (Flores)  - Terra Petarani (Makasar) via Maumere 3x10G.
+
+"Status saat ini, seluruh koneksi kontroler (BSC & RNC) ke Core di Bali kembali normal. Begitu pula layanan 4G di Pulau Sumbawa sudah kembali normal," lanjut Agus
+
+Sedangkan status BTS yang down, saat ini sebagian sudah dinormalisasi. Di Lombok, saat terjadi gempa jumlah BTS 2G yang down tercatat 246 BTS. Setelah normalisasi, tinggal 175 BTS. BTS 3G yang masih down awalnya 177 BTS sekarang 134 BTS. Untuk BTS 4G semula 147 BTS yang down dan tinggal 30 BTS yang harus dinormalisasi.
+
+Saat ini di Lombok sudah tersedia 72 MBP (Mobile Backup Power) yang siap dimobilisasi menunggu tambahan tim dan akses ke lokasi.
+
+Mengenai gedung kantor branch Mataram, lanjut Agus, mengalami kerusakan minor (keretakan pada tangga). Sedangkan untuk bantuan resource, sudah diterjukan TERRA 3 orang, Team MBP 20 orang dan dari regional didatangkan BKO 6 orang dengan rincian 4 dari Bali, 1 dari Jawa Tengah dan 1 dari Jawa Timur.
+
+Selain itu, Telkomsel telah mendirikan Posko Pengungsian yang ada di Sembalun, Bayan dan Madayin. Recovery coverage di posko pengungsian sedang berlangsung sesuai target 6 Agustus 2018.
+
+Baca juga: BTS Terdampak Gempa Lombok Berangsur Pulih
+
+Telkomsel juga menyalurkan bantuan kepada masyarakat dan karyawan Telkomsel. Bentuk bantuan, yakni, penempatan MCK 2 unit di masing-masing lokasi posko pengungsian; bantuan material untuk rumah ibadah di dekat lokasi site 3 lokasi; bantuan untuk beberapa karyawan dari pihak outlet/network; bantuan sembako dan selimut ke pengungsi; paket khusus 50 min all operator + 200 SMS all operator 7 hari.
+
+Memanfaatkan layanan uang elektronik Telkomsel, TCASH yang juga bisa digunakan semua operator, Telkomsel juga mengajak seluruh pelanggan untuk menyampaikan kepeduliannya dengan menghubungi *800*688# kemudian memilih menu 3. Donasi Dalam Negeri dan menambahkan kode unik '01' pada digit akhir. 
+
+"Kami menyampaikan ikut berduka cita atas musibah gempa yang dialami oleh masyarakat termasuk karyawan kami di wilayah terdampak gempa. Mudah-mudahan apa yang kami upayakan bisa mempercepat pemulihan dampak gempa dan masyarakat bisa segera beraktivitas normal kembali,"tambah Agus.
+
+Seperti diketahui, dari data Twitter BMKG, gempa berkekuatan 6.8 SR telah terjadi di Utara Pulau Lombok, Minggu (5/8/2018), pukul 18.46. Disusul peringatan dini tsunami di NTB pukul 18.46 dan Tsunami di nyatakan berakhir pukul 20.24. 
+                                                    (rou/rou)                                                   				gempa lombok                                       

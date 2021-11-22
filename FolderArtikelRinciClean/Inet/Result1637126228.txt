@@ -1,0 +1,30 @@
+              Jakarta - Indosat Ooredoo melakukan uji jaringan telekomunikasi yang dilakukan secara serempak di Jawa dan luar Jawa. Pengujian ini untuk memastikan jaringannya tidak mengalami kendala selama bulan Ramadan dan Lebaran tahun ini.
+
+Lima kota tujuan mudik utama di seluruh Indonesia, masing-masing Solo-Jawa Tengah, Malang-Jawa Timur, Padang-Sumatera Barat, Banjarmasin-Kalimantan Selatan dan Makassar-Sulawesi Selatan jadi tempat pengujian jaringan telekomunikasi Indosat. Kelima kota itu merepresentasikan kantong-kantong mudik yang memiliki potensi terjadinya kepadatan tujuan mudik dan kenaikan trafik telekomunikasi cukup tinggi.
+
+Baca juga: Indosat Sebar Internet Pakai Infrastruktur Langit
+Uji jaringan dilakukan di berbagai spot pusat keramaian yang biasa terjadi kepadatan masyarakat saat Ramadan dan Lebaran, di antaranya di alun-alun kota Malang, De Tjolomadu Solo, Jembatan Siti Nurbaya Padang, Masjid Raya Sabilal Muhtadin Banjarmasin, dan pantai Losari Makassar. Hasilnya, Indosat Ooredoo mengklaim kualitas sinyal serta kecepatan akses internet/data yang bisa dinikmati pelanggan dan masyarakat pada masing-masing lokasi.
+
+                      Dalam uji jaringan itu juga menunjukkan coverage jaringan 4G Plus secara kontinyu di sepanjang rute antar spot di lima kota tersebut, yang dilakukan melalui berbagai aktivitas layanan yang biasa dilakukan pelanggan seperti download, live streaming, YouTube, dan video call. Dari hasil pengetesan menunjukkan bahwa sepanjang rute drive test aktivitas streaming berjalan dengan baik dan tanpa buffering.
+
+Dalam pengujian ini diperoleh kecepatan maksimal download berkisar antara 62,7 Mbps hingga 104,7 Mbps, dengan rata-rata kecepatan download 85,33 Mbps. Khusus di beberapa titik keramaian di lima kota tujuan mudik tersebut diperoleh kecepatan download hingga 93 Mbps (Losari Makassar), 76,5 Mbps (Kawasan Bandara Adi Sumarmo Solo), 62,7 Mbps (Kawasan Alun-Alun Malang), 89,7 Mbps (Kawasan Gunung Padang) dan 104,7 Mbps (Kawasan Patung Bekantan Banjarmasin).
+
+Selama uji jaringan Indosat juga dilakukan pengetesan kualitas suara (voice) dengan metode pengukuran MOS (Mean Opinion Score) yang menunjukkan bahwa 4,47% area yang diukur menunjukkan hasil di tingkat excellent (maksimum skor dimana nilai MOS 4-5). Rentang penilaian metode pengukuran MOS sendiri adalah 1-5, di mana angka 5 menunjukkan hasil excellent. Hasil ini menurut mereka menunjukkan bahwa kualitas suara layanan Indosat Ooredoo berada pada tingkat terbaik.
+
+Foto: detikINET/Agus Tri Haryanto
+Kesiapan Jaringan Telekomunikasi
+
+Chief Technology Officer Indosat Ooredoo, Dejan Kastelic mengatakan, pihaknya memahami kebutuhan telekomunikasi yang handal selama masa-masa peningkatan trafik telekomunikasi seiring dengan meningkatnya pula aktifitas masyarakat selama Ramadhan dan Lebaran.
+
+Kastelic mengatakan kesiapan kapasitas jaringan telekomunikasi Indosat Ooredoo didukung dengan penggelaran infrastruktur jaringan 4G Plus yang dilakukannya dalam meningkatkan kualitas pengalaman pelanggan berkomunikasi di jaringannya.
+
+"Penambahan sumber daya yang akan melakukan monitoring jaringan menjadi komitmen kami untuk memastikan kenaikan trafik telekomunikasi dapat kami antisipasi semakin baik di momen penting tersebut," demikian disampaikannya seperti dalam keterangan tertulis yang diterima detikINET, Jumat (27/4/2019). 
+
+Operator yang identik warna kuning merah ini telah menyiapkan kapasitas jaringannya untuk mengantisipasi kenaikan trafik telekomunikasi yang selalu meningkat di masa-masa Ramadan dan perayaan Lebaran. Seiring dengan tren digital dan penggunaan media sosial masyarakat yang terus meningkat, kesiapan kapasitas layanan data menjadi hal yang sangat penting, di mana perusahaan telah meningkatkan kapasitas data menjadi 18.4 Terabyte/hari. 
+
+Baca juga: Selama Pemilu 2019, Operator Seluler Janjikan Jaringan Aman
+Kapasitas data yang disiapkan ini untuk memenuhi puncak kenaikan trafik data yag diprediksi meningkat sebesar 15-20%. Sementara untuk kapasitas layanan SMS disiapkan hingga 975 juta SMS/hari dan kapasitas layanan suara disiapkan hingga 37 juta Erlang/hari. Kedua trafik suara dan SMS ini juga sudah diperhitungkan untuk prediksi peningkatkan trafik yang mungkin terjadi.
+
+Tidak hanya meningkatkan kapasitas jaringan, Indosat Ooredoo juga memantau kondisi jaringan telekomunikasi juga pada momen tersebut melalui Indosat Ooredoo Network Operation Center (i-NOC) dan Indosat Service Operation Center (i-SOC) sebagai pusat monitoring seluruh jaringan dan layanan secara nasional. 
+
+Monitoring jaringan secara lebih intensif juga dilakukan melalui Command Center yang akan beroperasi beberapa hari sebelum dan sesudah masa Mudik Lebaran untuk mengidentifikasi secara proaktif melalui tim Performance Monitoring. Bahkan disebutkan sebelum sebuah gangguan berimbas bagi pelanggan, dan secara reaktif melalui tim Customer Service sehingga bila ada kendala dapat diselesaikan sesegera mungkin.                                                    (agt/afr)                                                   				indosat ooredoo				ramadan 2019                                       
