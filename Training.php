@@ -33,8 +33,6 @@ $samples = [];
 $labels = [];
 
 foreach ($folderDirektori as $kategori) {
-    // print_r($row);
-
     if ($kategori == "." or $kategori == '..') {
     } else {
         $fileList = glob($folderArtikel . $kategori . '/*');
@@ -70,7 +68,7 @@ $estimator = new PersistentModel(
         new Dense(50),
         new PReLU(),
     ], 256, new AdaMax(0.0001))),
-    new Filesystem('sentiment.rbx', true)
+    new Filesystem('model.rbx', true)
 );
 
 $estimator->train($dataset);
