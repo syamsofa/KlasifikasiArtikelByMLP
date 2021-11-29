@@ -1,0 +1,33 @@
+Jakarta -
+
+Lembaga Riset Siber Indonesia CISSReC (Communication and Information System Security Research Center) meminta agar pemerintah menaruh perhatian serius soal keamanan aplikasi PeduliLindungi.
+
+PeduliLindungi sendiri saat ini digunakan sebagai platform untuk mengecek penerima vaksin COVID-19. Untuk mengakses layanan ini, pengguna harus registrasi yang menyertakan data diri, salah satunya Nomor Induk Kependudukan (NIK).
+
+Di samping itu, PeduliLindungi jadi sorotan karena dituding mencuri data hingga dinilai terlalu berlebihan menampung data pengguna.
+
+Baca juga: PeduliLindungi Curi Data Pengguna? Begini Awal Mulanya
+
+"Prinsipnya penggunaan aplikasi untuk membantu percepatan proses vaksinasi sangat kita dukung, apalagi aplikasi ini memang sejak awal dibuat untuk membantu menanggulangi COVID-19," kata Chairman CISSReC Pratama Persadha, Minggu (3/1/2021).
+
+"Namun karena ini menggunakan teknologi yang selalu terbuka peluang diretas, pemerintah harus menjadikan keamanan aplikasi sebagai perhatian serius. Karena datanya yang disimpan dan dikelola akan sangat banyak. Dalam tiga tahun akan ada ratusan juta data masuk bila memang aplikasi ini menjadi ujung tombak pendataan nantinya," ucapnya menambahkan.
+
+Selain keamanan, Pratama menuturkan bahwa faktor kesiapan infrastrukturnya harus diperhatikan. Bila menjadi backbone pendataan COVID-19, aplikasi PeduliLindungi juga harus mempunyai kemampuan untuk menerima data dan aktivitas dalam jumlah banyak.
+
+"Jangan sampai aplikasi down dengan alasan banyak pengunjung dan banyak kegiatan di sistem aplikasi tersebut, kesiapan ini jangan sampai dilupakan," kata pria asal Cepu, Jawa Tengah ini.
+
+Pada dasarnya, Indonesia memang butuh banyak cara untuk mempercepat proses vaksinasi dengan jumlah penduduk yang besar. Pratama mengatakan penggunaan aplikasi PeduliLindungi ini diharapkan adi salah satu solusi, yang tentunya tidak menjadi beban baru karena nantinya ada masalah, seperti peretasan maupun gagalnya sistem menerima data dan kunjungan aktivitas yang melonjak karena tingginya volume pemakaian.
+
+"Bisa dibayangkan kalau terjadi peretasan dan perubahan data akan membuat repot lagi terkait pendataan dan pendistribusian. Semoga ini bisa menjadi perhatian pemerintah dan aplikasi ini menjadi salah satu solusi untuk mempercepat proses distribusi vaksin," ungkapnya.
+
+Baca juga: Sebenarnya Data Pribadi di Aplikasi PeduliLindungi Buat Apa Aja?
+
+Apabila aplikasi PeduliLindungi juga diberikan akses ke sistem Dukcapil untuk verifikasi dan bisa secara cepat melakukan update NIK mana saja yang sudah menerima vaksin dan belum. Bila pendataan macam ini berhasil, kata Pratama, seharusnya ini sangat membantu bagi masyarakat yang sedang di luar daerah sesuai NIK nya untuk tetap bisa menerima vaksin.
+
+Ia kemudian mencontohkan, di Inggris, sudah menerima setidaknya lima juta vaksin pfizer. Inggris bergerak cepat karena menjadi salah satu negara Eropa yang terdampak parah, bahkan sudah muncul varian baru covid19 yang lebih berbahaya. Inggris sendiri menugaskan NHS (National Health Service) untuk menjalankan distribusi vaksin sampai ke masyarakat.
+
+"Vaksin didistribusikan berdasarkan wilayah yang terdampak parah lebih dulu. Masyarakat diberikan undangan vaksin lewat surat dan email, untuk nanti dibawa saat melakukan vaksin di RS yang sudah ditunjuk NHS," pugnkasnya.                          
+
+Simak Video "Kemenkes Luncurkan Chatbot WhatsApp PeduliLindungi "
+ [Gambas:Video 20detik]
+                           (agt/asj)                                                   				aplikasi pedulilindungi				pedulilindungi				vaksin covid-19				vaksin corona				virus corona				covid-19                                       

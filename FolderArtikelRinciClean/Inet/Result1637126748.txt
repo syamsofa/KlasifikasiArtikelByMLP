@@ -1,0 +1,25 @@
+              Jakarta - Masih berusia muda bukan halangan untuk menorehkan prestasi yang membanggakan. Ini dibuktikan Tim Al Kahfi yang memenangi kompetisi hackers tingkat nasional Cyber Jawara.
+
+Tim Al Kahfi beranggota Luqman Hakim Yumnun (17 tahun), Deni Febriyanto (18 tahun) dan Faisal Yudo Hernawan (19 tahun). Ketiganya berhasil menundukkan 19 tim lainnya yang rata-rata jauh lebih senior.
+
+"Saya nggak menyangka bisa juara, soal dan tantangan yang diberikan panitia cukup sulit. Terutama saat babak ketiga 'capture the flag', dua tantangan terakhir tidak bisa kami jawab," kata Faisal Yudo Hernawan, mahasiswa semester lima Sekolah Tinggi Telematika Telkom Purwokerto.
+
+                      Atas prestasi ini, Tim Al Kahfi mendapatkan hadiah uang tunai sejumlah Rp 20 juta, televisi tiket pesawat pulang pergi Jakarta - Tokyo. Selain itu mereka akan dikirim mewakili Indonesia mengikuti Cyber Sea Games untuk tingkat Asia Tenggara.
+
+"Insya Allah kami siap mewakili Indonesia di Cyber Sea Games terdekat", kata Lukman Hakim Yumnun, mahasiswa semester tiga jurusan informatika Universitas Brawijaya seperti dikutip dari keterangan resmi yang diterima detikINET, Sabtu (1/10/2019). 
+
+Untuk diketahui kompetisi hackers Cyber Jawara ini diselenggarakan oleh Indonesia Security Incident Response Team On Internet Infrastructure (ID-SIRTII). Sebelum putaran final yang berlangsung di Legian Kuta, Bali pada 29 Spetember lalu, pihak penyelanggara melakukan penyaringan.
+
+Terpilihlah 152 tim yang terdiri dari 33 tim dari zona 1 (Sumatera dan Kalimantan), 60 tim dari zona 2 (Banten, Jawa Barat dan DKI Jakarta), 25 tim dari zona 3 (Jawa Tengah dan Jogjakarta), 27 peserta dari zona 4 (Jawa Timur, Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur) dan 7 dari Zona 5 (Sulawesi, Maluku, Papua Barat dan Papua).
+
+Dari 152 tim ini kemudian disaring kembali hingga mendapatkan 20 tim untuk melaju ke babak final. Di putaran terakhir ini, para finalis dihadapkan tiga tantangan. 
+
+Pertama adalah kemampuan peserta untuk mempertahankan server yang digawangi sekaligus menyerang secara random 19 server lainnya yang digawangi oleh tim lawan (Computers Network & Defense atau CND).
+
+Kedua adalah kemampuan mencari kelemahan sistem yang diberikan panitia. Peserta diberi sejumlah range IP dan harus bisa menemukan titik lemahnya atau token. Uji ini dikenal biasanya dengan istilah Penetration Test (Pen Test).
+
+Ketiga adalah kemampuan untuk menyelesaikan masalah atau tantangan yang diberikan oleh panitia dengan tajuk Capture The Flag (CTF). 
+
+Peserta dinilai kemampuannya dalam mengetahui apakah ada ekploitasi terhadap suatu sistem atau aplikasi, kemampuan kryptografi, kemampuan stegano, forensik digital dan lain-lain.
+
+Setelah dinilai, Tim Kahfi berhasil meraih poin tertinggi. Di peringkat kedua diduduki Tim Gethuk yang beranggotakan Ghuniyu Fattah Rozaq, Ari Aridana dan Naufal Abrian Ismiyushar. Sementara di peringkat ketiga ditempati Tim Three Way Handshake yang beranggotakan Bilal Abdussalam dan Romy Djuniardi.                                                    (afr/afr)                                                   				developer lokal				developer game                                       

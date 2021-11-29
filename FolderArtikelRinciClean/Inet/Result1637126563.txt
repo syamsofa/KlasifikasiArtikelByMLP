@@ -1,0 +1,25 @@
+              Jakarta - Peretasan sejumlah situs resmi lembaga pemerintahan hingga tingkat kementerian terjadi belakangan ini. Dalam waktu relatif bersamaan situs Kejaksaan dan Dewan Pers mengalami peretasan.
+
+Aksi peretasan yang dilakukan belakangan ini menurut sebagian pengamat dilakukan untuk menyampaikan aspirasi politik. Aksi peretasan dengan latar belakang ini disebut dengan istilah hacktivist.
+
+Sebelum kasus peretasan di Kejaksaan dan Dewan Pers, situs Telkomsel dan situs Pengadilan Negara sudah lebih dulu mengalami hal serupa. Dan menurut pakar keamanan siber Pratama Persadha, peristiwa semacam ini akan terus terjadi dan menjadi sebuah tren.
+
+                      Chairman lembaga riset keamanan cyber CISSReC (Communication and Information System Security Research Center) ini menyebut bila masyarakat yang semakin melek internet membuat jalan peretasan dianggap sebagai sesuatu yang efektif untuk menyampaikan pendapat di publik.
+
+Meretas situs pemerintah atau lembaga publik lain akan semakin sering dilakukan. Karena memang tools meretas semakin banyak dan mudah digunakan. Apalagi di saat yang sama kesadaran membangun sistem informasi yang aman di Tanah Air, khususnya pemerintah, masih sangat rendah. Ini menjadi pekerjaan rumah besar pemerintah," jelas Pratama dalam keterangannya, Kamis (1/6/2017).
+
+Hingga berita ini diturunkan, situs Kejasaan Agusg masih belum bisa diakses. Pratama pun menyebut kemungkinan besar situs yang beralamatkan di www.kejaksaan.go.id ini menggunakan CMS.
+
+Akibatnya kerentanan serangan semakin besar, karena tidak memakai CMS yang dibuat sendiri sehingga relatif lebih aman. Selain itu pada 2016 ojs.kejaksaan.go.id pernah diserang, sehingga besar kemungkinan ada backdoor yang ditinggalkan untuk menyerang dan masuk ke situs Kejaksaan di waktu yang lain.
+
+"Untuk kasus peretasan Kejaksaan sendiri sebenarnya pada bulan Maret 2017 sekelompok hacker sudah mengingatkan. Bahkan mereka berhasil masuk ke dalam sistem lebih dalam dan melihat database Kejaksaan yang berisi daftar tersangka dan kasus. Seharusnya bila sudah diperingatkan, peretasan hari ini bisa saja tidak terjadi," jelas pria asal Cepu Jawa Tengah ini.
+
+Pratama menambahkan peristiwa ini sekali lagi membuktikan bahwa domain .go.id mudah sekali diretas. Karena memang sebenarnya security belum menjadi fokus utama perhatian di lingkungan pemerintah, bahkan dibagian yang berkaitan dengan IT.
+
+Untuk kasus Dewan Pers sendiri sebenarnya peretas pernah memberikan jejak pada link dewanpers.or.id/noob.html dengan tujuan agar admin situs tersebut segera mengetahui dan memperbaiki lubang keamanan. Namun nampaknya karena jejak diberikan tidak pada halaman utama, jadi terlewat dari pantauan.
+
+"Sebaiknya kejaksaan dan dewan pers melakukan forensik terhadap web masing-masing, begitu juga lembaga negara lainnya, agar segera mengetahui kelemahan yang ada. Ini penting untuk menghilangkan backdoor yang sering ditinggalkan oleh peretas. Dalam kasus Kejaksaan dan Dewan Pers ini kemungkinan besar peretas menggunakan backdoor yang ada di web kedua instansi tersebut," jelas Pratama.
+
+Tak ketinggalan, menurut Pratama pemerintah wajib mengantisipasi fenomena ini. Saling retas antar kelompok yang berbeda pandangan di tanah air semakin meningkat.
+
+Tidak hanya situs, saling retas akun media sosial dan e-mail juga terjadi. Bila ini terus didiamkan suatu saat akan meledak menjadi sebuah peristiwa yang merugikan banyak pihak, perbankan misalnya menjadi pihak yang akan sangat diincar untuk diserang karena mempunyai dampak kerusakan yang sangat besar di masyarakat.                                                    (mag/mag)                                                   				hacker				dewan pers                                       

@@ -1,0 +1,37 @@
+Jakarta -
+
+Investigasi kebocoran data 91 juta pengguna Tokopedia sedang dilakukan. Namun kronologi kejadian tersebut telah dianalisis Lembaga Riset Siber Indonesia CISSReC (Communication & Information System Security Research Center).
+
+Pakar Keamanan Siber CISSReC Pratama Persadha menuturkan, hacker membobol Tokopedia mengatasnamakan Whysodank, di mana hasil curiannya itu dipublikasikan di darkweb bernama Raid Forums pada Sabtu (2/5).
+
+Kemudian, hacker ShinyHunters memposting thread penjualan 91 juta akun Tokopedia di forum darkweb EmpireMarket. Dari sinilah, kata Pratama, akun Twitter @underthebreach mengungkapkan peretasan data pengguna Tokopedia di media sosial.
+
+Baca juga: Tokopedia Siap Kerjasama dengan Kominfo Usut Kebocoran Data
+
+"Memang data untuk password masih dienkripsi, namun tinggal menunggu waktu sampai ada pihak yang bisa membuka. Itulah kenapa pelaku mau melakukan share gratis beberapa juta akun untuk membuat semacam sandiwara siapa yang berhasil membuka kode acak pada password," ujar Pratama dalam siaran persnya.
+
+Adapun, pelaku peretasan ini menjual data di situs gelap tersebut yang isinya berupa user ID, email, nama lengkap, tanggal lahir, jenis kelamin, nomor handphone, dan password yang masih ter-hash atau tersandi.
+
+Data-data privasi pengguna itu dijual dengan harga USD 5.000 atau setara Rp 74 juta. Bahkan, CISSReC menyebutkan, ada 14.999.896 akun Tokopedia yang datanya saat ini bisa didownload.
+
+Data pengguna Tokopedia yang diretas hacker dan diperjualbelikan di darkweb. Foto: Lembaga Riset Siber Indonesia CISSReC
+
+Ditambahkan Pratama, meski password masih dalam bentuk acak, namun data lain sudah plain alias terbuka. Artinya semua peretas bisa memanfaatkan data tersebut untuk melakukan penipuan dan pengambilalihan akun-akun di internet.
+
+Misalnya mengirimkan link phising maupun upaya social engineering lainnya, karena itu seharusnya Tokopedia melakukan update dan informasi kepada seluruh penggunanya segera.
+
+"Bila nantinya password sudah berhasil dibuka oleh pelaku, pastinya salah satu yang akan dilakukan adalah takeover akun. Lalu pelaku secara random akan mencoba melakukan take over akun medsos dan marketplace lainnya, karena ada kebiasaan penggunaan password yang sama untuk semua platform," terang pria asal Cepu Jawa Tengah ini.
+
+Pratama menggarisbawahi yang bisa dilakukan pengguna Tokopedia adalah mengganti password dan mengaktifkan OTP (one time password) lewat SMS. Lalu, mengganti semua password dari akun medsos dan platform marketplace selain tokopedia.
+
+Baca juga: 5 Cara Agar Data Akun Tokopedia Tidak Bocor
+
+Ditambahkan Pratama, saat mendapatkan sampel data dari forum, belum ada data kartu kredit maupun debet yang disebar pelaku. Harapannya data kartu tidak ikut menjadi salah satu yang berhasil diretas.
+
+Kejadian ini bukan yang pertama kali di tanah air. Sebelumnya Bukalapak juga mengalami hal serupa. CISSReC menilai kejadian ini jadi peringatan keras bagi setiap penyedia layanan di internet yang memakai banyak data masyarakat dalam kegiatannya.
+
+"Perkuat pengamanan sistemnya, investasi lebih banyak untuk cyber security. Penggunaan enkripsi harus merata terhadap semua data yang berhubungan dengan user, jangan hanya password seperti saat ini," pungkas Pratama.                          
+
+Simak Video "UMKM Asal Surabaya Raup Untung Hingga Puluhan Juta Lewat Online "
+ [Gambas:Video 20detik]
+                           (agt/fay)                                                   				tokopedia				akun tokopedia bocor				91 juta akun tokopedia bocor				hacker				darkweb				data pengguna tokopedia bocor				cyber security                                       

@@ -1,0 +1,27 @@
+Jakarta -
+
+Pengguna Twitter di Indonesia diimbau untuk waspada, usai sejumlah akun milik tokoh atau orang kaya dunia, yakni Bill Gates, Jeff Bezos, hingga Elon Musk diretas oleh hacker.
+
+Mereka mencuit yang isinya kurang lebih sama, yaitu mengiming-imingi pengguna Twitter lainnya untuk mengirimkan sejumlah nominal Bitcoin, yang nantinya akan dikembalikan dengan jumlah lebih besar.
+
+Akun-akun tersebut tentunya sudah diberi label verifikasi alias centang berwarna biru. Alhasil, tak sedikit pengguna media sosial berlogo burung ini yang telah mentransfer Bitcoin miliknya.
+
+Baca juga: Tips Amankan Akun Twitter, Jangan Kena Hack Seperti Bill Gates
+
+"Ternyata dengan tweet meminta dikirim Bitcoin banyak juga yang percaya. Beberapa akun sudah mengumumkan bahwa tweet tersebut adalah penipuan. Tapi, nampaknya sudah banyak yang melakukan transfer," ujar pakar keamanan siber Pratama Persadha dalam keterangan tertulisnya, Kamis (16/7/2020).
+
+Pratama menambahkan, publik Tanah Air, khususnya yang memiliki akun Twitter, tidak perlu khawatir berlebihan, namun harus waspada. Intinya, kata pria asal Cepu, Jawa Tengah itu, ini adalah proses edukasi keamanan siber bagi kita semua.
+
+Disampaikannya, bagi akun ternama yang khawatir mengalami hal serupa seperti dialami Bill Gates dan lainnya ini, bisa mengaktifkan two step authentication lewat SMS di bagian pengaturan atau setting. Kendati cara ini belum tentu bisa mengatasi eksploitasi celah keamanan pada sistem Twitter, tapi langkah ini adalah pengamanan yang bisa dilakukan sekarang.
+
+Baca juga: Akun Twitter Bill Gates, Elon Musk dan Jeff Bezos Diduga Diretas
+
+Lembaga Riset Siber Indonesia CISSReC (Communication & Information System Security Research Center) mengungkapkan, apa yang terjadi di Twitter saat ini, dinilai sebagai zero day exploit, karena celah keamanan yang dimanfaatkan peretas berdampak cukup massif dan sangat berbahaya.
+
+"Dilihat dari tweet-nya, peretasnya satu pihak, kemungkinan besar ada celah keamanan yang dieksploitasi oleh peretas. Bisa dari aplikasi pihak ketiga atau lainnya. Artinya bila celah keamanan ini disebar luaskan, korbannya nanti bisa bertambah dan di Indonesia juga bisa terkena dampaknya," kata Pratama yang juga sebagai Chairman CISSReC.
+
+"Asumsi terburuknya adalah ada kemungkinan hacker sudah memiliki semua database akun Twitter. Oleh karena itu, sebaiknya segera ganti password Twitter saat ini juga," pungkasnya.                          
+
+Simak Video "Twitter Stop Auto Refresh Agar Bacaan Pengguna Tidak Mudah 'Hilang' "
+ [Gambas:Video 20detik]
+                           (agt/fay)                                                   				twitter				twitter diretas				akun twitter diretas				akun twitter bill gates diretas				hacker				zero day exploit                                       

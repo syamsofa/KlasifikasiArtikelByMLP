@@ -1,0 +1,45 @@
+              Jakarta - Ada dua testimonial menarik nan strategis dalam sesi diskusi panel Rakernas LPSE (Layanan Pengadaan Secara Elektronik) di Jakarta, beberapa waktu lalu.
+
+Pertama, dari Firmansyah Lubis, Direktur e-Government Kementerian Kominfo Indonesia, yang menyatakan, "Kami harus belajar kepada LKPP (Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah) mengenai keberhasilan menerapkan e-Government melalui LPSE." Kedua, seperti disampaikan Prakoso, Asisten Deputi II Bidang Kominfo Kementerian Koordinator Polhukam RI yang menyatakan, "Success story e-Government di Indonesia adalah LPSE".
+
+Ini bukanlah basa-basi. Pada tahun 2016 ini, sudah ada 635 LPSE di 24 provinsi yang melayani 731 instansi. Angka pencapaian yang luar biasa dalam waktu delapan tahun saja sudah sejauh itu bagi Indonesia yang kondisi geografis kepulauannya sangat luas, kondisi infrastruktur TIK terbatas, serta SDM pengelola dan pengguna TIK relatif sama terbatas.
+
+                      Jadi, disadari atau tidak, para penggiat LPSE merupakan pelopor keberhasilan e-Government yang paling banyak digunakan di seluruh Indonesia. Sebab, pengguna SPSE tidak hanya pada internal pemerintah saja, tapi juga mencakup transaksi yang melibatkan penyedia barang/jasa dari pihak ketiga dalam jumlah signifikan.
+
+Jika ditelisik sekilas, orang kadang hanya melihat kewajiban penggunaan LPSE pada Inpres Nomor 1/2013 tentang Aksi Pencegahan dan Pemberantasan Korupsi yang mewajibkan pengadaan barang/jasa 100% menggunakan Sistem Pengadaan Secara Elektronik (SPSE) berupa e-Tendering dan e-Purchasing, sehingga sebarannya massal dan jadi contoh sukses tadi. Akan tetapi, jangan lupa, toh LPSE sudah ada sejak 2008 dan digunakan secara partisipatif oleh K/L/D/I (Kementrian/Lembaga/Dinas/Instansi).
+
+Pada awalnya terdapat lima provinsi uji coba penggunaan SPSE yaitu provinsi Sumatera Barat, Jawa Barat, Jawa Timur, Kalimantan Tengah, dan Gorontalo. Beberapa kabupaten dan kota juga berinisiatif, seperti Kota Depok dan Kota Yogyakarta sementara di level kementerian adalah Kementerian Keuangan RI.
+
+Secara bertahap K/L/D/I mulai menggunakan SPSE tanpa adanya tekanan regulasi yang mewajibkan. Penerapan SPSE bagi K/L/D/I  yang bersifat partisipatif dengan menyurati LKPP untuk diinstal aplikasi SPSE dan diberikan pelatihan bagi para pengelolanya. Selanjutnya saling belajar antar K/L/D/I dan dengan kawalan LKPP, dan juga dukungan Komisi Pemberantasan Korupsi (KPK) telah mendorong penggunaan SPSE secara massif.
+
+Secara bertahap, para pelopor tersebut juga terus memberikan nilai tambah yang konkrit bagi SPSE. Alih-alih ada muncul kegaduhan karena diumukan pemda serapan anggaran rendah beberapa waktu lalu, sesungguhnya laporan penyerapan anggaran saat ini lebih mudah dipantau oleh publik, karena sudah tersedia aplikasi Monitoring dan Evaluasi Online (Monev OL) yang dikembangkan oleh LKPP yakni http://monev.lkpp.go.id/.
+
+Ini pula yang digunakan Tim Evaluasi dan Pengawasan Realisasi Anggaran (TEPRA) dan langsung dipantau Kantor Staf Presiden (KSP) untuk dapat langsung diakses Presiden Jokowi. Data pada aplikasi tersebut diinput masing-masing daerah setiap bulan dengan diberi batas tenggat tanggal 15. Hal ini sangat memudahkan KSP dan TEPRA Pusat untuk memantau perkembangan penyerapan anggaran di setiap daerah dan instansi pusat.
+
+Bagi pimpinan instansi, Monev OL juga dapat dimanfaatkan memantau kinerja anggarannya. Tanpa perlu menunggu sentilan Presiden, setiap K/L/D/I dapat langsung melihat hasil kinerja di manapun pimpinan tersebut berada karena Monev OL berbasis web. 
+
+Hal ini tentunya berbeda pada saat masih dikelola Unit Kerja Presiden Bidang Pengawasan dan Pengendalian Pembangunan (UKP4) dengan Tim Evaluasi Pengawasan Penyerapan Anggaran (TEPPA), yang mana laporan kinerja keuangan daerah tidak dapat diakses publik atau terbatas untuk UKP4.
+
+Selain itu, dalam upaya meningkatkan akuntabilitas dan transparansi LKPP, juga telah disediakan aplikasi Sistem Informasi Rencana Umum Pengadaan (SiRUP) yang dapat diakses pada https://sirup.lkpp.go.id/sirup.
+
+Aplikasi tersebut merupakan tempat mengumumkan anggaran instansi pemerintah baik pusat maupun daerah yang berupa rencana umum pengadaan, baik melalui penyedia (e-Tendering, e-Purchasing, pengadaan langsung, penunjukkan langsung) maupun swakelola. Informasi tersebut sangat bermanfaat bagi penyedia barang/jasa untuk mempersiapkan diri dalam mengikuti pengadaan sesuai bidangnya, dan bagi masyarakat merupakan alat pemantau penggunaan uang pajak yang disetorkannya digunakan untuk apa oleh pemerintah.
+
+Dari aplikasi SiRUP berlanjut pada aplikasi SPSE apabila pengadaan barang/jasa dilakukan melalui e-Tendering atau e-Purchasing. Hanya paket pengadaan yang telah diinput pada SiRUP yang dapat diproses. Proses pengadaan dari SPSE akan ditarik dan ditampilkan datanya pada Monev OL. Dengan demikian, antara SiRUP, SPSE dan Monev OL saling terkait, sehingga memudahkan pemantauan kinerja anggaran pemerintah.
+
+Tak Berpuas Diri
+
+Dengan seluruh pencapaian dan status aplikasi e-Government terluas saat ini, isu kelembagaan (khususnya sudah dua tahun ini) mengemuka sekaligus masih mencari format yang tepat mengingat pandangan setiap instansi berbeda dalam hal pengelolaan TIK. 
+
+Ada yang menganggap LPSE tukang jaga server saja — tanpa memikirkan bagaimana server SPSE dapat diakses dengan mudah, terjamin ketersediaannya, kerahasiaannya, dan keutuhannya. Pikiran sekilas yang tak memikirkan itu semua membutuhkan dukungan infrastruktur, personil pengelola terampil, dan tata kelola TIK  memadai.
+
+Isu kelembagaan paling hangat adalah Peraturan Menteri Kominfo Nomor 4/2016 tentang Sistem Manajemen Pengamanan Informasi (SMPI) yang mewajibkan setiap penyelenggara sistem elektronik, termasuk LPSE, menerapkan SNI/ISO-IEC 27001 paling lambat tahun 2018. Jika penyelenggara sistem elektronik tidak memenuhi ketentuan tersebut, maka Kementerian Kominfo akan menutup akses internetnya, alias hanya dapat diakses intranet saja.
+
+Namun berapa banyak yang siap? Sampai saat ini, baru LPSE Provinsi Jawa Barat, LPSE Kota Surabaya, dan LPSE Kementerian Keuangan RI. Peraturan tersebut tentu membuat resah komunitas pengelola LPSE dan LKPP sebagai instansi pembina dan pengembang aplikasi SPSE. Dapat dibayangkan 600 lebih LPSE harus ditutup, layanan menjadi terbatas, dan semua usaha, baik partipatif maupun yang diwajibkan, menjadi sia-sia.  
+
+Maka, perlu upaya serius semua pihak agar semua LPSE dapat menerapkan peraturan keamanan informasi tersebut. Baik dari sisi internal LPSE, LKPP, Kementerian Kominfo, Badan Standarisasi Nasional (BSN), Komite Akreditasi Nasional (KAN), dan lembaga sertifikasi-nya.
+
+Keberhasilan LPSE dalam menerapkan e-Government ini  jangan sampai pupus karena tidak mampu menerapkan SMPI. Kita menyadari bahwa keamanan informasi sangat penting dalam transaksi elektronik. Dan, secara khusus bagi LPSE, hal tersebut tidak terlepas dari organisasi pengelola yang permanen, personil pengelola yang profesional, dukungan infrastruktur, dan anggaran operasional.
+ 
+*) Penulis, Ika Mardiah merupakan Kepala Balai LPSE Provinsi Jawa Barat, Doktor Ilmu Administrasi Konsentrasi Pemerintahan Fakultas Ilmu Sosial dan Politik Universitas Padjadjaran.
+
+                                                    (ash/ash)                                                   				kolom telematika                                       

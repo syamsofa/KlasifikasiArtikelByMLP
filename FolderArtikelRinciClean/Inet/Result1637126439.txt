@@ -1,0 +1,21 @@
+              Jakarta - Dewan Pers Nasional mendapatkan kado buruk di Hari Pers Nasional 2018. Situs milik Dewan Pers diretas dan tidak bisa diakses sama sekali. Bahkan dalam salah satu subdomainnya, peretas menampilkan gambar wanita berpakaian seksi.
+
+Situs yang diretas beralamat di dewanpers.co.id dan juga ditemukan dalam cache bahwa terdapat beberapa subdomain yang juga diretas, yaitu pendataan.dewanpers.or.id dan pengaduan.dewanpers.co.id.
+
+Praktisi keamanan siber Pratama Persadha menjelaskan bahwa tindakan peretasan model semacam ini akan terus meningkat. Jadi, memang kewaspadaan harus ditingkatkan.
+
+                      "Untuk mengetahui teknik apa yang dipakai oleh peretas harus ada forensik terlebih dahulu. Namun dari ciri-ciri dan sistem yang diretas, kemungkinan peretas sudah dapat masuk ke panel utama dari domain dewanpers.co.id," jelas Chairman lembaga riset keamanan siber CISSReC ini, Jumat (9/2/2018).
+
+Pratama menambahkan bahwa tiga domain tersebut berada dalam IP (Internet Protocol) yang sama, sehingga ada kemungkinan peretas sudah dapat masuk tidak hanya ke server web, tapi juga ke Operating System server. 
+
+Bila dilihat dari timeline hacking, sudah beberapa kali dilakukan peretasan terhadap web dewanpers.co.id dan kemungkinan peretas sudah meninggalkan backdoor.
+
+"Harus dilakukan forensik segera terhadap situs Dewan Pers. Kemungkinan peretas sudah menyerang sejak lama dan meninggalkan backdoor. Peretas sudah mengincar untuk membuat web down saat Hari Pers Nasional," jelas pria asal Cepu, Jawa Tengah ini.
+
+Pratama menambahkan serangan berikutnya dapat diantisipasi bukan hanya dari traffic serangan, tapi juga dari anomali-anomali yang dilakukan di dalam sistem situs tersebut.
+
+"Forensik sangat penting untuk mengetahui apa yang terjadi. Juga untuk mengetahui teknik, taktik, dan prosedur seperti apa yang digunakan peretas dalam menyerang situs Dewan Pers. Forensik juga penting untuk melihat dimana saja backdoor dipasang peretas," jelasnya.
+
+Keberadaan backdoor yang dipasang oleh peretas bertujuan untuk masuk ke sistem dan bisa mengambil alih lagi di lain waktu sehingga hal ini wajib diwaspadai.
+
+"Koordinasi dengan instansi terkait keamanan siber, seperti BSSN sangat penting sehingga diharapkan tercipta kolaborasi bersama dalam menghadapi serangan siber semacam ini, dikarenakan teknik serangan semakin kompleks dan canggih, kedepannya sangat sulit jika dihadapi secara parsial tanpa kolaborasi," terang Pratama.                                                    (rou/rou)                                                   				situs dewan pers diretas                                       

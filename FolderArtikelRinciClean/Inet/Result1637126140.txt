@@ -1,0 +1,46 @@
+              Jakarta - Belajar bisa dilakukan di mana saja, termasuk di alam terbuka. Meskipun belajar teknologi informasi dengan tema yang relatif berat, dalam IT Camp semua hal justru terasa sangat menyenangkan. 
+
+Sejak digelar pertama kali pada 2009, IT Camp terus diadakan secara rutin dan berkala. IT Camp merupakan kegiatan diskusi dan pelatihan teknologi informasi (TI) yang dilaksanakan di alam terbuka layaknya sebuah camping. 
+
+IT Camp yang dikoordinir oleh Kelompok Remaja Melek IT dan Yayasan Onno Center International pada tahun ini diadakan pada 14-15 September 2019 di Citra Alam Lakeside (Situ Gintung) Cireneu, Ciputat Tangerang Selatan. Dengan Target Sekitar 150 peserta yang terdiri dari pelajar, mahasiswa, pekerja, peminat TI hingga profesional TI akan bergabung dalam IT Camp 2019.
+
+                      
+Baca juga: Berkemah Sambil Berguru IoT dengan Onno
+
+ Ketua Panitia IT Camp 2019 yang sekaligus Ketua Yayasan Onno Center International, Nurlina Purbo mengatakan, "IT Camp tahun ini lebih banyak diikuti oleh para profesional TI mengingat temanya yang mengangkat tentang Ihacking Big Data. 
+
+Seperti yang kita ketahui, saat ini sudah trendnya kita mengetahui betapa pentingnya Big Data, sehingga keamanannya sangat perlu dijaga dari para hacker yang pintar dan dapat menjebol pertahanan Data itu. Sering kita dengar data Bank mau data lain yang di jebol oleh para Hacker Profesional
+
+ Nurlina mengatakan sistem belajar TI di alam terbuka seperti IT Camp yang kita buat tidak akan didapatkan di tempat lain. Karena di acara ini peserta langsung bertatap muka dengan para ahlinya dan langsung mempraktekkan Ilmu yang di dapat langsung seketika. suasana yang santai dan kekeluargaan, peserta diharapkan akan lebih cepat menyerap ilmu yang diberikan oleh para pembicara," paparnya.
+
+ Kegiatan ini dilaksanakan selama 2 hari penuh, lanjut Nurlina, Dan berbeda dari tahun sebelumnya, pada malam hari nanti akan dilakukan kegiatan 'ngoprek' bersama.
+
+ IT Camp, menurut Nurlina, sudah diadopsi di Aceh tahun 2015 dan di Pemalang bulan Juni 2016 dan November 2019, Magelang Jawa Tengah bulan Oktober 2019. Tidak tertutup kemungkinan, kedepan IT Camp juga akan diselenggarakan di daerah lain di seluruh nusantara. Tiap tahunnya, tema dan materi pembelajaran yang diberikan selalu mengikuti trend ilmu tekhnologi terbaru. 
+
+Materi yang pernah disampaikan di IT CAMP antara tahun 2009 sampai 2017 antara lain : - Pengenalan komputer, jaringan, merakit komputer server, pembuatan jaringan internet, jaringan wireless maupun internet telepon (VoIP). - Hacking pemula - Open BTS dan Cloud Computing - TV Internet (Streaming), Radio Internet, Home Teater PC, Media Server, UPnP, OpenBTS new version (Multi BTS) - sekitar Big Data, Data Mining, Bit Coin and Z Cash Mining in Internet.
+
+ Pada tahun 2019 ini, IT Camp akan membahas lebih dalam tentang hacking Big Data, termasuk belajar coding python menggunakan TensorFlow dan Keras. Juga, teknik melakukan Vulnerability Analysis dan Penetration Test. Yang tidak kalah keren adalah belajar sisi praktek teknik menggelar jaringan Fiber Optics. 
+
+Big Data sendiri merupakan data yang secara global tidak terstruktur dapat dirubah menjadi terstruktur melalui proses analisa (data mining) sehingga bisa didapatkan hasil sesuai yang diinginkan. Dengan konektivitas internet, semua menjadi saling terhubung secara terus menerus, dari berbagi data, remote control, baik dalam kehidupan nyata maupun di dunia maya tersambung secara lokal maupun global melalui sensor yang selalu aktif.
+
+
+Baca juga: Yuk Intip Aksi 'Pak Guru' Onno Purbo Ajari Anak-anak di Oman
+
+ Adapun para nara sumber yang bakal berbagi ilmu di IT Camp 2019 diantaranya: 
+- Marsekal Madya Hari Pramono (TNI AU) 
+- Ismail Fahmi (PT. Media Kernel Indonesia) 
+- Ari Tjahjanto (PT. FiberStar) 
+- Onno W. Purbo (Pakar Internet dari Onno Center International & KeRM.IT) 
+
+"Diharapkan, peserta IT Camp 2019 mendapatkan ilmu pengetahuan dan menambah wawasan tentang teknologi-teknologi baru tersebut, sehingga menjadikan mereka lebih kompetitif di dunia pendidikan maupun dunia kerja," kata Onno W. Purbo. 
+
+ Kegiatan IT Camp, lanjut Onno, merupakan salah satu misi dari Onno Center International, yakni mencerdaskan bangsa melalui TI. Peserta IT Camp kebanyakan kaum muda yang mempunyai keingintahuan sangat tinggi dan sangat potensial untuk diberikan pemahaman yang benar tentang teknologi-teknologi terbaru.
+
+ IT Camp 2019 terselenggara berkat kerjasama dengan PT. Datascrip, Asosiasi Penyelenggara Jasa Internet Indonsia (APJII), PT Astra International Tbk, PT Fiberstar, GCR Indonesia, Linksys, Belkin, Bintang Raya.com, dan Asosiasi Pengusaha TIK Nasional (APTIKNAS), serta ICT Watch yang setia mendukung IT Camp sejak awal 2009 sampai sekarang.
+
+
+                          
+
+Simak Video "Keren! Tanpa Remote, Drone Ini Diterbangkan dengan Pikiran "
+ [Gambas:Video 20detik]
+                           (fyk/krs)                                                   				it camp				teknologi				kemah                                       

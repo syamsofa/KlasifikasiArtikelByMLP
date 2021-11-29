@@ -1,0 +1,141 @@
+[
+    {
+        "overall": {
+            "accuracy": 0.9734836419880032,
+            "balanced accuracy": 0.9663764898052383,
+            "f1 score": 0.9478281719842387,
+            "precision": 0.9516000717511907,
+            "recall": 0.9498269602108704,
+            "specificity": 0.9829260193996062,
+            "negative predictive value": 0.9821981774318589,
+            "false discovery rate": 0.048399928248809426,
+            "miss rate": 0.05017303978912968,
+            "fall out": 0.017073980600393807,
+            "false omission rate": 0.017801822568141,
+            "mcc": 0.9326583067803224,
+            "informedness": 0.9327529796104765,
+            "markedness": 0.9337982491830495,
+            "true positives": 2330,
+            "true negatives": 6990,
+            "false positives": 128,
+            "false negatives": 128,
+            "cardinality": 2458
+        },
+        "classes": {
+            "Health": {
+                "accuracy": 0.9748953974895398,
+                "balanced accuracy": 0.9535135384048627,
+                "f1 score": 0.9487179487179487,
+                "precision": 0.9910714285714286,
+                "recall": 0.9098360655737705,
+                "specificity": 0.9971910112359551,
+                "negative predictive value": 0.9699453551912568,
+                "false discovery rate": 0.008928571428571397,
+                "miss rate": 0.0901639344262295,
+                "fall out": 0.002808988764044895,
+                "false omission rate": 0.030054644808743203,
+                "informedness": 0.9070270768097255,
+                "markedness": 0.9610167837626853,
+                "mcc": 0.9336317497500568,
+                "true positives": 555,
+                "true negatives": 1775,
+                "false positives": 5,
+                "false negatives": 55,
+                "cardinality": 610,
+                "proportion": 0.2481692432872254
+            },
+            "Travel": {
+                "accuracy": 0.9728601252609603,
+                "balanced accuracy": 0.9533181916504434,
+                "f1 score": 0.9493374902572097,
+                "precision": 0.9934747145187602,
+                "recall": 0.908955223880597,
+                "specificity": 0.9976811594202899,
+                "negative predictive value": 0.9657687991021324,
+                "false discovery rate": 0.006525285481239762,
+                "miss rate": 0.09104477611940298,
+                "fall out": 0.002318840579710102,
+                "false omission rate": 0.034231200897867575,
+                "informedness": 0.9066363833008868,
+                "markedness": 0.9592435136208928,
+                "mcc": 0.9325690697712857,
+                "true positives": 609,
+                "true negatives": 1721,
+                "false positives": 4,
+                "false negatives": 61,
+                "cardinality": 670,
+                "proportion": 0.2725793327908869
+            },
+            "Inet": {
+                "accuracy": 0.9525756336876533,
+                "balanced accuracy": 0.9686774390011801,
+                "f1 score": 0.905383360522023,
+                "precision": 0.8283582089552238,
+                "recall": 0.9982014388489209,
+                "specificity": 0.9391534391534392,
+                "negative predictive value": 0.9994369369369369,
+                "false discovery rate": 0.17164179104477617,
+                "miss rate": 0.0017985611510791255,
+                "fall out": 0.060846560846560815,
+                "false omission rate": 0.0005630630630630851,
+                "informedness": 0.9373548780023602,
+                "markedness": 0.8277951458921606,
+                "mcc": 0.8808733268686777,
+                "true positives": 555,
+                "true negatives": 1775,
+                "false positives": 115,
+                "false negatives": 1,
+                "cardinality": 556,
+                "proportion": 0.22620016273393004
+            },
+            "Sport": {
+                "accuracy": 0.9936034115138592,
+                "balanced accuracy": 0.9899967901644667,
+                "f1 score": 0.9878738884397736,
+                "precision": 0.9934959349593496,
+                "recall": 0.9823151125401929,
+                "specificity": 0.9976784677887406,
+                "negative predictive value": 0.9936416184971099,
+                "false discovery rate": 0.006504065040650375,
+                "miss rate": 0.01768488745980712,
+                "fall out": 0.002321532211259414,
+                "false omission rate": 0.0063583815028901425,
+                "informedness": 0.9799935803289335,
+                "markedness": 0.9871375534564595,
+                "mcc": 0.9835590807312693,
+                "true positives": 611,
+                "true negatives": 1719,
+                "false positives": 4,
+                "false negatives": 11,
+                "cardinality": 622,
+                "proportion": 0.2530512611879577
+            }
+        }
+    },
+    {
+        "Health": {
+            "Health": 555,
+            "Travel": 5,
+            "Inet": 0,
+            "Sport": 0
+        },
+        "Travel": {
+            "Health": 4,
+            "Travel": 609,
+            "Inet": 0,
+            "Sport": 0
+        },
+        "Inet": {
+            "Health": 48,
+            "Travel": 56,
+            "Inet": 555,
+            "Sport": 11
+        },
+        "Sport": {
+            "Health": 3,
+            "Travel": 0,
+            "Inet": 1,
+            "Sport": 611
+        }
+    }
+]

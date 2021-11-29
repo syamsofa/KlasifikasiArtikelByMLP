@@ -1,0 +1,56 @@
+              Jakarta - XL Axiata (XL) mencatat ada lonjakan trafik layanan data atau internet pada lebaran kemarin sebesar 24% dibandingkan pada hari biasa. Layanan pesan instan, salah satunya WhatsApp, sangat diminati para pelanggan operator satu ini.
+
+Kendati trafik layanan data meroket, XL mengklaim berhasil melalui masa krusial periode lebaran (H-1 s/d H+1) Lebaran 2019 dengan performa yang baik. Disebutkan tak ada permasalahan jaringan yang berarti di momen tersebut.
+
+Sementara jika dibandingkan trafik tertinggi pada Lebaran tahun lalu, trafik data saat ini meningkat 57%. Selain data, trafik layanan SMS juga meningkat sebesar 3% dibandingkan hari biasa, sedangkan layanan percakapan/voice cenderung mengalami penurunan karena perubahan perilaku pengguna yang banyak beralih ke layanan data.
+
+                      
+Baca juga: Aplikasi 'Peta Jelajah Nusantara' buat Mudik, Kelebihannya?
+
+Layanan Digital Diminati
+
+Untuk trafik mengakses ke layanan pesan berbasis data, seperti WhatsApp, Line dan sebagainya secara rata-rata meningkat meningkat sebesar 48%, mengakses layanan jejaring sosial (SNS: Facebook, Twitter, Instagram) meningkat 17%, streaming video dan sebagainya meningkat sebesar 22% dan lebaran tahun ini di tunjukkan dengan mulai naiknya akses games sebesar 15%.
+
+Kontribusi peningkatan trafik akses SNS di hari lebaran terutama didukung meningkatnya trafik mengakses aplikasi Instagram (35%), ada juga peta digital Waze yang meningkatkan sebesar 93% dibandingkan hari biasa dan selama masa mudik layanan portal Hiburan (entertainment), seperti Spotify naik 8% dan Netflix 77%.
+
+Foto: Adi Fida Rahman/detikINET
+
+
+Untuk aktifitas pembelian online selama lebaran 2019 juga mengalami perubahan pola dibandingkan lebaran 2018. Bila Lebaran 2018, situs Lazada paling banyak diakses pelanggan, maka selama Lebaran 2019, Shopee menjadi situs belanja online yang paling banyak diakses pelanggan, disusul Bukalapak dan Tokopedia.
+
+Daerah dengan Trafik Tertinggi
+
+Mengenai wilayah yang punya trafik data tertinggi pada lebaran tahun ini terjadi di Jawa Barat dan Lampung, di mana periode lebaran kemarin ada peningkatan sebesar 43% dan 38% hari biasa.
+
+Data dari pusat monitoring jaringan XL pun menunjukkan area-area dengan lonjakan trafik yang signifikan dibandingkan kondisi normal. Sebut saja seperti pusat perbelanjaan, meningkat 6%, lokasi wisata naik 9%, bandara naik 5%, dan stasiun kereta rata-rata naik 12%. Seiring dengan adanya arus mudik dan balik, trafik di area-area sepanjang jalan tol Trans Jawa juga naik cukup signifikan, yaitu sekitar 6% dibandingkan hari normal di luar masa mudik.
+
+Foto: XL Axiata
+Baca juga: XL Axiata dan Kemenag Digitalisasi Madrasah Aliyah
+
+Selanjutnya, setelah tersedia sarana jalan tol Trans Jawa dan Trans Sumatera, perpindahan trafik layanan antar daerah juga meningkat. Tercatat, trafik layanan data di wilayah Jabodetabek berkurang 8% selama lebaran 2019. Sebaliknya, trafik layanan data di Jawa Tengah dan DI Yogyakarta naik antara 10-25%, Jawa Barat naik 11-43%, Lampung naik 38%, dan Sumatera Selatan naik 15%.
+
+Kota-kota yang menyumbang kenaikan trafik tertinggi berada di wilayah-wilayah yang menjadi tujuan mudik atau perpindahan pelanggan tersebut. Kota Jepara menjadi kota dengan trafik tertinggi dengan naik 137% di banding hari normal, selanjutnya Kota Kuningan naik 102%, dan Kabupaten Pemalang naik 83%.
+
+Di wilayah Kalimantan, kota dengan trafik tertinggi adalah Kab. Kutai Kartanegara naik 79%, kota Tanah Laut naik sekitar 51%, lalu diikuti kota Balikpapan setinggi 40%. Sementara di Sulawesi, Kab. Pinrang, naik sekitar 81%, dan Kota Manado naik sekitar 16%.
+
+Persiapan XL Axiata
+ 
+Direktur Teknologi XL Axiata, Yessie D. Yosetya menuturkan, ada satu hal yang paling krusial dalam menyediakan layanan selama libur Lebaran setiap tahun adalah bagaimana pihaknya bisa menyediakan layanan berkualitas, yang merupakan kombinasi antara jaringan dengan performa tinggi dan produk yang sesuai dengan kebutuhan pelanggan.
+
+"Jika kami bisa memastikan semua berjalan baik, maka pelanggan akan nyaman dan trafik dengan sendirinya juga meningkat," ungkapnya seperti dalam keterangan tertulis yang diterima detikINET, Senin (10/6/2019).
+
+Foto: XL Axiata
+ 
+Yessie menambahkan, performa layanan saat libur panjang Lebaran juga merupakan salah satu ujian bagi XL dalam mengukur performa di sepanjang tahun. Untuk itu, persiapan panjang dan serius sudah dilaksanakannya sejak jauh-jauh hari. Mengingat kecenderungan dan kebiasaan pelanggan dalam mengkonsumsi layanan data juga terus berubah seiring dengan cepatnya kemajuan teknologi digital.
+
+Persiapan XL dalam menghadapi lonjakan trafik telekomunikasi ini tidak hanya sebatas menambah kapasitas atau BTS di jalur mudik, namun juga atas konfigurasi jaringan yang paling sesuai dengan trend dan kebiasaan pelanggan dalam mengkonsumsi layanan terutama data.
+
+Untuk memastikan semua layanan berjalan dengan baik, XL sebelumnya telah melakukan berbagai langkah antisipasi dengan meningkatkan kapasitas baik di jaringan core, transmisi, juga kapasitas radio di jalur mudik. Pada jaringan core, peningkatan kapasitas secara menyeluruh telah dilakukan yaitu terutama pada radio akses (RAN) di sekitar 1.700 BTS, sekitar 250 jalur/hop transport, serta Sistem Utama Core (GGSN) paket data. Selain itu juga dilakukan penambahan upstream menjadi 1.5x melalui 2 exchange (Singapura dan Australia).
+
+Baca juga: XL Home Hadir di Yogyakarta
+ 
+Selain itu, XL pun telah menyiapkan sekitar 50 MBTS dan sekitar 10.000 BTS baru di jalur mudik, tujuan mudik dan tempat wisata yang ramai dikunjungi saat Lebaran. Selanjutnya, dilakukan optimisasi dan rebalancing jaringan yang dilakukan secara digital di titik kumpul atau hotspot Lebaran, seperti antara lain tempat keberangkatan atau kedatangan pemudik dan tempat tujuan wisata.
+ 
+XL juga telah memastikan, sebagian besar jalur mudik utama telah terlayani dengan jaringan data berkualitas 4G LTE. Di sepanjang Pulau Jawa, 100% baik jalur tol Trans Jawa maupun jalur kereta api Jakarta - Surabaya telah terlayani jaringan 4G LTE. Sementara itu, jalan tol di luar Jawa, yaitu Bakauheni - Terbanggi yang juga sudah beroperasi, jaringan 4G XL Axiata telah meng-cover lebih dari 85% jalur tersebut. 
+
+Sementara itu, untuk jalan raya non tol pantai Utara Jawa dari Jakarta hingga Surabaya telah ter-cover layanan 4G LTE hingga sekitar 95%, dan jalur non-tol Pantai Selatan mencapai sekitar 90%. Di Sumatera lebih dari 94% jalur mudik utama telah ter-cover oleh jaringan 4G LTE, sedangkan di Kalimantan mencapai 66%.                                                    (agt/krs)                                                   				xl axiata				xl				layanan data				internet				whatsapp				lebaran                                       

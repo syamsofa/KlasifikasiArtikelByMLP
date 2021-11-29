@@ -1,0 +1,39 @@
+Sragen -
+
+Teknologi untuk melawan COVID-19, juga dikembangkan anak sekolah. Para siswa MTsN 5 Sragen membuat sanitizer dan pengukur suhu otomatis.
+
+Inovasi menarik dilakukan tim robotik MTsN 5 Sragen, Jawa Tengah. Situasi pandemi COVID-19 ini memantik kreativitas para siswi ini untuk membuat alat otomatis yang mereka namai Satis dan Sutis.
+
+"Di situasi pandemi seperti saat ini tim robotik kami membuat beberapa inovasi yang dapat memudahkan masyarakat maupun petugas protokol kesehatan dalam mengurangi penyebaran COVID-19. Beberapa alat yang kami ciptakan adalah Satis dan Sutis. Layaknya anak kembar, kedua alat ini memang tidak bisa dipisahkan," ujar salah satu anggota tim robotik MTsN 5 Sragen, Juwita Zaki Labibah, ditemui detikcom di kantor Kementerian Agama (Kemenag) Sragen, Selasa (16/2/2021).
+
+Juwita menerangkan, Satis merupakan kepanjangan dari hand sanitizer otomatis, sedangkan Sutis berarti pembaca suhu otomatis. Seperti namanya, kedua alat ini tidak membutuhkan operator manusia karena seluruhnya bekerja melalui sensor otomatis.
+
+"Cara kerja Satis menggunakan sensor proximity. Ketika sensor membaca jarak tangan seseorang yang mendekat maka alat akan mengirimkan data ke servo untuk menekan botol yang berisi cairan hand sanitizer," paparnya.Baca juga: AI Dipakai Identifikasi Obat untuk Lawan COVID-19
+
+Ketika tangan sudah menjauh, lanjut Juwita, servo akan berhenti bergerak. Satis ini juga dilengkapi dengan baterai yang dapat di-charge serta indikator tegangan yang berfungsi memberikan informasi kondisi baterai.
+
+"Sedangkan Sutis bekerja saat ada orang yang mendekatkan dahi atau tangan dengan jarak antara 3 hingga 6 sentimeter, sensor termometer inframerah akan membaca suhu secara otomatis," terangnya.
+
+Juwita mengatakan, yang membedakan alat ini dengan alat serupa yang sudah banyak dipakai, adalah diselipkannya suara Google Assistant dalam Satis. Suara Google Assistant ini akan memberikan perintah bagi pengunjung sesuai dengan hasil pengukuran suhu.
+
+"Hasil pembacaan suhu tubuh akan diucapkan secara realtime dengan suara Google Assistant. Jika panas tubuh yang dibaca lebih dari 37,6 derajat Celcius, akan muncul suara yang meminta pengunjung tersebut untuk pulang, tetapi jika suhu di bawah 37,5 derajat Celcius akan diperbolehkan masuk," terangnya.
+
+Kepala sekolah MTsN 5 Sragen, Muawanatul Badriyah mengatakan, ide pembuatan kedua alat tersebut muncul dari para siswi. Kedua alat tersebut kemudian dijadikan satu rangkaian karena fungsi keduanya saling menunjang.Baca juga: China Tolak Serahkan Data Kunci Asal Muasal COVID-19 ke WHO
+
+"Jadi sekali melewati alat itu dapat dua hal, suhu diukur otomatis dan hand sanitizer-nya juga otomatis. Hari ini kita tempatkan alat ini di Kantor Kemenag Sragen, untuk mendukung pelayanan di Kemenag," ujarnya.
+
+Kepala kantor Kemenag Sragen, Hanif Hanani menyambut baik inovasi yang dilakukan para siswi MTsN 5 Sragen tersebut. Pihaknya akan menggunakan alat tersebut untuk keperluan sehari-hari di Pelayanan Terpadu Satu Pintu (PTSP) Kemenag.
+
+"Saya sudah lihat program ini setengah bulan yang lalu, sudah dicoba. Memang PTSP ini membutuhkan sekali alat otomatis. Karena tadinya diukur secara manual oleh petugas," terangnya.
+
+Hanif mendukung semangat para siswa untuk terus berkarya meski sedang dirundung pandemi. Bahkan pihaknya akan memesan alat lagi karya tim robotik MTsN 5 Sragen ini untuk dipasang di lokasi yang lain.
+
+"Kami support kepada anak-anak untuk terus berkarya agar tidak terjerembab dalam kondisi COVID-19. Mungkin akan ada pesanan dari kami untuk tempat-tempat yang lain," pungkasnya.
+
+Simak video 'Jokowi soal Vaksin Merah Putih: Insyaallah Akhir Tahun Diproduksi':
+
+[Gambas:Video 20detik]
+
+
+
+                                                    (skm/fay)                                                   				sragen				birojatengdiy				dyouthizen				covid-19				teknologi lawan corona                                       

@@ -1,0 +1,29 @@
+              Jakarta - Guna mendukung kelancaran berkomunikasi pelanggan selama mudik, Indosat Ooredoo telah melakukan berbagai persiapan sejak jauh hari. Mulai dari optimasi jaringan, pemanfaatan spektrum terbaru, hingga paket layanan menarik.
+
+Pada periode mudik Lebaran kali ini, Indosat Ooredoo meningkatkan kapasitas untuk layanan data, suara, dan SMS. Sebab, pada momen ini trafik telekomunikasi akan cenderung melonjak daripada hari biasanya.
+
+Indosat Ooredoo telah meningkatkan layana data menjadi 11.394 terabyte per hari, untuk memenuhi puncak kenaikan trafik data yang diprediksi meningkat sebesar 83,7% dibandingkan tahun lalu. Demikian pula dengan kapasitas suara yang ditingkatkan menjadi 37,49 juta Erlang per hari ,serta kapasitas SMS yang ditingkatkan menjadi 1,01 milyar SMS per hari, telah disiapkan sesuai dengan prediksi trafik yang akan terjadi.
+
+                      Selain peningkatan kapasitas jaringan serta berbagai upaya lain yang biasa dilakukan setiap tahunnya, khusus untuk Lebaran tahun ini ada dua hal baru yang dilakukan Indosat Ooredoo untuk mendukung kesiapan jaringan Lebarannya, yaitu penggunaan spektrum baru untuk LTE di frekuensi 2.100 MHz dan optimasi jaringan secara otomatis dengan Self Organizing Network (SON). 
+
+Baca juga: Membandingkan Internet 4G di Kota Tujuan Mudik
+
+Dengan kombinasi LTE di 1.800 MHz eksisting dengan LTE di 2.100 MHz yang baru dengan Carrier Aggregation, pelanggan bisa memanfaatkan kedua spektrum tersebut dengan optimal. Hal ini diklaim akan memberikan kualitas dan kecepatan yang lebih baik bagi pelanggan, untuk mengakses aplikasi-aplikasi yang mendukung kelancaran dan kenyamanan saat mudik dan saat berlebaran, seperti aplikasi social media, navigasi, informasi dan hiburan.
+
+Mobilitas pelanggan yang sangat tinggi terutama pada saat Lebaran membutuhkan aktivitas monitoring dan optimasi secara terpadu dan realtime. Dengan mengimplementasikan SON, Indosat Ooredoo dapat melakukan optimasi jaringan secara otomatis untuk menjaga kualitas jaringan khususnya di sepanjang jalur mudik dan kota-kota tujuan mudik.
+
+"Berbagai upaya dilakukan sebagai bagian dari komitmen kami untuk menjamin kelancaran dan kenyamanan berkomunikasi selama perjalanan mudik serta perayaan Lebaran dan libur Lebaran. Kami ingin pelanggan tetap menikmati pengalaman terbaik di saat-saat penting mereka berkumpul, bersilaturahmi dan menikmati libur Lebaran," demikian disampaikan Dejan Kastelic, Chief Technology and Information Officer Indosat Ooredoo dalam keterangan tertulisnya, Senin (11/6/2018).
+
+"Kami juga melibatkan lebih dari 1800 tim teknis untuk mendukung operasional jaringan secara harian selama masa trafik tinggi, untuk memastian bahwa jaringan kami memberikan performansi terbaik untuk pelanggan," katanya menambahkan.
+
+Upaya memastikan kualitas jaringan selama mudik juga dilakukan melalui operator ini melalui Network Operation Center (i-NOC) sebagai pusat monitoring seluruh jaringan secara nasional. Kendala jaringan akan dapat diidentifikasi lebih awal, sehingga dapat diatas sebelum kendala tersebut dirasakan oleh pelanggan.
+
+Sebelumnya, Indosat Ooredoo juga telah dilakukan uji jaringan di jalur mudik Semarang-Demak-Kudus, Jawa Tengah, untuk menunjukkan kesiapan jaringan di bagian jalur Pantura yang juga menjadi jalur mudik padat di pesisir utara Jawa Tengah menuju Jawa Timur. Dalam uji jaringan tersebut, diperoleh coverage 4G secara kontinyu di sepanjang rute Semarang-Demak-Kudus. 
+
+Baca juga: Ini Operator di Indonesia yang punya 4G LTE Paling Kencang
+
+Selain itu juga dicoba berbagai aktivitas layanan yang biasa dilakukan pelanggan seperti download, live streaming, YouTube, dan video call. Dari hasil pengetesan menunjukkan bahwa sepanjang rute drive test aktivitas streaming berjalan dengan baik dan tanpa buffering.
+
+Di samping itu semua, operator yang memiliki induk perusahaan Ooredoo ini menyediakan berbagai paket internet, seperti seri paket Unlimited YouTube yang hadir dengan masa aktif tiga hari dengan harga terjangkau dari yang termurah Rp 5.000 hingga Rp 12.000 untuk masa aktif tujuh hari. 
+
+Pelanggan juga dapat memilih paket Unlimited bulanan, yang hadir dalam berbagai pilihan dengan sejumlah manfaat seperti akses gratis aplikasi favorit sehari-hari, nelpon, dan SMS sepuasnya untuk sesama pengguna nomor Indosat Ooredoo, akses YouTube gak habis-habis, serta pilihan kuota utama untuk memenuhi kebutuhan pelanggan. Paket ditawarkan mulai dari Rp 20.000 untuk 1 GB; Rp 50.000 untuk 3GB hingga Rp 120.000 untuk 15 GB; dan Rp 165.000 untuk Paket Unlimited Jumbo.                                                    (agt/afr)                                                   				indosat				mudik                                       
